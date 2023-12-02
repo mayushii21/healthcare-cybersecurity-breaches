@@ -1,0 +1,1002 @@
+status,name_of_covered_entity,individuals_affected,breach_submission_date,web_description,location_of_breached_information,state,covered_entity_type,type_of_breach,business_associate_present
+current,6f89f11951617ffb8e142912062d5362ce67ee9ea28f54d742578587c5046883,7216,06/28/2022,,Network Server,CA,Healthcare Provider,Hacking/IT Incident,Yes
+current,eb9f92b9d0897046593c1c2f911b5931418412d766c86f36e677d7139b2d9847,3300638,02/01/2023,,Network Server,CA,Healthcare Provider,Hacking/IT Incident,No
+current,523d24874a89881508a35cfdeeb88eb76cc7fc3244838ed0a33596d793fb4452,43523,07/01/2022,,Email,FL,Business Associate,Hacking/IT Incident,Yes
+current,8334b5464f37da37ca1cd4f4f165e1e753e3298908cf6873bd1916424396460f,1298,02/10/2022,,Email,WV,Healthcare Provider,Hacking/IT Incident,No
+current,ade04a39ead93556f4116bfc75fca033e83c76350af6839d77f597338746e19c,3359,06/02/2023,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,e29020674e4b614c463a70515f0aa210a6c2c6049933f4fae1a3342637600f19,500,04/11/2023,,Network Server,WV,Healthcare Provider,Hacking/IT Incident,No
+current,11b374f735ed408c5718d2cfc4329ee694d2509e6e509264b38fd561b175e6d1,7054,10/24/2022,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,f195fa214249df34f27053b28713ba03c7fb734a07e954e86061131aec0c3bfc,978,10/24/2022,,Network Server,MN,Healthcare Provider,Hacking/IT Incident,No
+current,ad87442e9797da78ee47d03fef2c95be68795b38312a5e48ec54782d49e43487,501,10/05/2022,,Network Server,CO,Healthcare Provider,Hacking/IT Incident,No
+current,51ee757a7bfb6307a6509aa21aedb4686816d2bd38229a710872adb6c1b2ac75,27486,05/27/2022,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,2dec77e1b75884d77a7b1e331ec40d8e91a0c38c0e85129cfec68e0af8f9f019,500,12/17/2021,,Network Server,IL,Healthcare Provider,Hacking/IT Incident,Yes
+current,a6d4559052e04c9dfc8a47f1d32a9addbf9759677072f00bb471eaeeefde3461,50119,12/03/2021,,Network Server,IL,Business Associate,Hacking/IT Incident,Yes
+current,c38528589e079202d29348171ae42600bebd83d6b7d4359b3e2c6cbf597a46a6,2000,11/05/2021,,Network Server,GA,Business Associate,Hacking/IT Incident,Yes
+current,6b38fd8a020572d8fc0dfc16f66a74efdc0c51d5af14e250db2dbed88d555aa0,1737775,10/26/2021,,Network Server,FL,Healthcare Provider,Hacking/IT Incident,No
+current,1717cddd92dbc7afdd602e3d93192e579f10af727a36ef01a63a8442b931b50a,62342,07/02/2021,,Network Server,MS,Healthcare Provider,Hacking/IT Incident,No
+archive,29620fd8301c5bc38a34aca06f266b11305f2d02d5fa724da6945eebf85dfe06,72143,07/24/2020,,"Other Portable Electronic Device, Paper/Films",IL,Healthcare Provider,Theft,No
+archive,d760c89b454bcbd7f57f30ca167ba173b35a3d090adccb9ae7615e2067313c27,1087,07/13/2018,,Laptop,CO,Healthcare Provider,Theft,No
+current,85a1f20e3d8b553cd49449b8fbbe95446c0838af505a6f85a6423c8a836294ed,7069,09/23/2022,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,98823ccd5e4aeb0cdcfd6a8d7ae3198c7a18d09016ffcf8c28548657bfe55ac5,3000,10/26/2021,,Desktop Computer,WA,Healthcare Provider,Hacking/IT Incident,No
+current,8cc1e6d0ab735a7833b7ce6f97e501380a0a808a2bc55c7b6e2dbedb0715f74b,112611,06/30/2023,,Network Server,PA,Business Associate,Unauthorized Access/Disclosure,Yes
+current,68a3767da79c93e02798c283b2e17ed3564b01be220bc42c05c9e2be88175786,500,06/06/2023,,Email,MI,Healthcare Provider,Hacking/IT Incident,No
+current,f0b576d4fe3c239efea176fc34163887369cc013c29c41b54d0760d129d6bc99,12499,09/30/2022,,"Electronic Medical Record, Network Server",NJ,Healthcare Provider,Hacking/IT Incident,No
+current,a248ad155ba99c3a96ca8f895efbb64aad3099165f6538b1d5cc63752aa0b7af,15206,01/20/2023,,Network Server,OH,Health Plan,Unauthorized Access/Disclosure,No
+current,f0694e5e391be504a03bc802b2731f2091e81873bcf058d9eb35caa9cd03bb58,16815,09/23/2022,,Network Server,CA,Healthcare Provider,Hacking/IT Incident,No
+current,07bd9322a8591d944f847bdf80620be487d1b603c4f0e49161726af6c1686e13,9880,12/30/2021,,Network Server,CA,Healthcare Provider,Hacking/IT Incident,No
+current,28f3fd4fb11b24b2754c2216d088af18af0129c06d8c3ecbaa5e02eee306480d,2721,04/12/2023,,Paper/Films,OR,Healthcare Provider,Theft,No
+current,6e0caf84431e24fa573f817b3c1f7f82e211ffe29730ae4def0a853da961a62c,12499,09/30/2022,,"Electronic Medical Record, Network Server",NJ,Healthcare Provider,Hacking/IT Incident,No
+current,018b1c8ce7dd3601478e77b12eb3dc9a866ebb3955965878d14dcb2be445683e,6700,07/06/2023,,Network Server,FL,Business Associate,Hacking/IT Incident,Yes
+current,250a55b7a1d814a978a7fe23feac20170d052ed8c799f5cef9b262b4285130a1,30057,06/20/2023,,Network Server,CA,Healthcare Provider,Hacking/IT Incident,No
+current,1adc48d2bf0e6c5f10c4762c38c45df2f6991b96722d95390745b72169ed4098,134948,08/12/2022,,Email,TX,Business Associate,Hacking/IT Incident,Yes
+archive,85ce2fe9f4b3d8f9f481155f84d7f782a8e71f90b2e5290a9a5521e17bc57734,501,03/19/2022,,Email,CO,Healthcare Provider,Hacking/IT Incident,No
+archive,6dd427c33e83bbb2428b29fe73999d2848bbb802c5b500f0d95ead7ea3323457,1520,11/19/2021,,Network Server,CA,Health Plan,Hacking/IT Incident,Yes
+archive,d7bc96870f2ea1ce92bf74e6232c5cc294dc19fcd2a606ad785132ecb9122f0d,12931,05/21/2021,,Network Server,IL,Healthcare Provider,Hacking/IT Incident,Yes
+current,b888428ddf561a4ba3000939cc4928d057d2bd8f66d389644ae1982edd1ed4d1,501,08/08/2022,,Email,WA,Healthcare Provider,Hacking/IT Incident,No
+archive,1c824db77d28fc3c7b0d545b3bcb53d768d495df12a58f5531094f5d8b27f974,2160,08/05/2022,,Email,NY,Healthcare Provider,Hacking/IT Incident,No
+current,712b0b06a9b4e463302fd4fe5decfff72fc3f7eebf9b8a04651ddd09f1f03ef7,600,04/07/2023,,Network Server,NE,Healthcare Provider,Hacking/IT Incident,No
+archive,0dd4643913857cafbde4c16fe9df562b07dd5919b166ad955291100e4cbbc320,1290670,12/16/2020,,Email,FL,Business Associate,Hacking/IT Incident,Yes
+archive,ad758be1b8ca489d738cfe6514b21524182fcfd8ed636b4ec82bd34cde13fe58,10974,06/18/2020,,Network Server,OH,Healthcare Provider,Hacking/IT Incident,No
+current,4207b8d9441d085206a9b8c86ef389f454e7f13088c332477ba6bf387eaed33a,12145,09/21/2022,,Network Server,CA,Healthcare Provider,Hacking/IT Incident,No
+current,aeec178e7385de3f74db8da1103bca2d5d0cf4d31446addbe801a7c9f3c45f55,500,09/24/2021,,Network Server,MD,Health Plan,Hacking/IT Incident,No
+current,6c4b857273d2ce782ffa14bba556427f73f7be836423aac386f217a95520e875,1682,11/14/2022,,Network Server,CA,Business Associate,Unauthorized Access/Disclosure,Yes
+current,ca14e467c6bddf5f2f27a39e800149f333bdf64103d0389eb0e9fdf003d9ad25,2136,10/24/2022,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,8a113228e5a4ac7e7da8f53c136cd7547617b867e35f70a97a10b23bb9588f65,627,05/15/2023,,Network Server,PA,Healthcare Provider,Hacking/IT Incident,No
+current,d9a6e2bf2977a2e7a0606161db74291e5cebdb96cd2b5ef427ea76ba3be882f8,11672,09/23/2022,,Network Server,MO,Healthcare Provider,Hacking/IT Incident,No
+current,344a6a822b00607795d97cbad61a4eeeb098e20956b8571bb35693b5bfaf3294,18321,09/23/2022,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,c9c1aea0ef1d77c33a6b641c07d8951d22d39ec109c8c4b292f23c59449c38a7,500,12/30/2021,,Network Server,VA,Business Associate,Hacking/IT Incident,Yes
+current,46fe6e8c36dc69ed3b8b06b7352fdb5aa453d6ac4627c47d76d89d0a85592b5d,15569,07/11/2023,,Network Server,IL,Business Associate,Hacking/IT Incident,Yes
+current,ea5ad43641bdd9656f7c1832ca1344530e38ffe6c38c804b62b4ec8cd9dc60c8,224703,07/21/2023,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,No
+current,b416ada69029196b16977e3f5b33475b928ff20d8465f4d71e5960c59ccfe895,1000,05/23/2023,,Email,CA,Healthcare Provider,Hacking/IT Incident,No
+current,01462a1caeeb6930df720470d5b993a134e92e9a65af4bf1d28899e684ca6393,199000,04/07/2023,,Network Server,CA,Business Associate,Hacking/IT Incident,Yes
+current,01462a1caeeb6930df720470d5b993a134e92e9a65af4bf1d28899e684ca6393,462241,04/07/2023,,Network Server,CA,Business Associate,Hacking/IT Incident,Yes
+current,efd445c6699384f3a2c2a47a2c2da08a4adc88462f063172b78922f561935c45,61790,04/04/2023,,Network Server,CA,Business Associate,Hacking/IT Incident,Yes
+archive,2a60167e5d56d3c75081a09c7b7f7d123b4aa64b0d175a2657e35dadc9c621ea,48471,12/28/2018,,"Desktop Computer, Network Server",MI,Business Associate,Hacking/IT Incident,Yes
+current,47fa04a8291d8e1b5dde0faba5b7381e8e060cb8e8f4ab8644861c7fb5a55e00,1209825,07/14/2023,,Network Server,MN,Business Associate,Hacking/IT Incident,Yes
+current,badc729fd3583ffb1ae4a7cbca4c0f0617a8a76cb81434037ae6628e26b7f86b,233834,05/30/2023,,Network Server,IA,Health Plan,Hacking/IT Incident,Yes
+current,7bfe55e30d7d0390c2c5bd137b357a83782c88f1687797a29f69c3b12f74a7c6,11700,09/15/2022,,Electronic Medical Record,NV,Healthcare Provider,Hacking/IT Incident,No
+archive,160a0ae365eb34e27d2e6b751c9b587dd212d44ea35f0c25628c039a6fdacff2,1493,03/08/2023,,Network Server,KS,Healthcare Provider,Hacking/IT Incident,No
+archive,9659550b61f6ac05f83bd9c1f5e8b34d1f26a871d6a834ee8621ee2c107012e3,23379,09/09/2022,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,No
+current,2df18e56bcc8d90422b94987aa75e187b3769471558ecaf7a66870323238f8f7,3142,03/30/2023,,Network Server,IL,Healthcare Provider,Hacking/IT Incident,No
+current,53450c2574c3cc1fd6c0200f67b3c648278915e3bd636353b43c26f25db7c465,883,11/30/2022,,Network Server,PA,Business Associate,Hacking/IT Incident,Yes
+current,26ba04fc387a8da2f7ace3a5a9fe4b2c86a1a199aa279436f57801452bb222f2,4535,11/30/2022,,Network Server,PA,Business Associate,Hacking/IT Incident,Yes
+current,564d9b8daaf16d7b899f4ba7aad2a984d436a996f2374b456987e5dd09ecb6bd,2500,10/08/2022,,Network Server,FL,Healthcare Provider,Hacking/IT Incident,No
+current,541995fc3c456ddf969dc5a59107e972de707a406d3f5d55bfc5dfb73389c1af,38751,09/16/2022,,Network Server,WA,Healthcare Provider,Hacking/IT Incident,No
+current,5530ac817bb11d9885cd5502c1dc928547248f06cc1482661a4f2b4edd587272,30669,06/28/2022,,Network Server,NC,Healthcare Provider,Hacking/IT Incident,Yes
+current,0052d2d16420c3c0a1cfae18c1edc30d9610f113d3ca42c6fcbaf9dc9465320f,4075,05/20/2022,,Email,NC,Healthcare Provider,Hacking/IT Incident,No
+current,122a28cf6d4d74ec8a25cd21e41f9df8d9eb85ba13a000173cb2fb40ae786bbd,10140,08/22/2023,,Network Server,VA,Health Plan,Hacking/IT Incident,Yes
+current,0b6e4dc6ce2bd725a8dbc95b51726444090d47cb4a65787d761b4b576e8055bc,1313636,07/28/2023,,Network Server,FL,Healthcare Provider,Hacking/IT Incident,No
+current,8cc1e6d0ab735a7833b7ce6f97e501380a0a808a2bc55c7b6e2dbedb0715f74b,132651,06/30/2023,,Network Server,PA,Business Associate,Unauthorized Access/Disclosure,Yes
+archive,88b1a20a532af22c8946124ccddbecd53eaac986a72149f6968da781d90a4865,1533,06/26/2023,,Network Server,PA,Healthcare Provider,Hacking/IT Incident,Yes
+archive,541995fc3c456ddf969dc5a59107e972de707a406d3f5d55bfc5dfb73389c1af,22120,09/16/2022,,Network Server,WA,Healthcare Provider,Hacking/IT Incident,No
+current,3cdecaf62e23cdd74c2c54715ed103e9e3b8496eaec928c3826c31e35be7d6ab,627,05/15/2023,,Network Server,PA,Healthcare Provider,Hacking/IT Incident,No
+current,5530ac817bb11d9885cd5502c1dc928547248f06cc1482661a4f2b4edd587272,44512,06/28/2022,,Network Server,NC,Healthcare Provider,Hacking/IT Incident,Yes
+archive,9041ffeec59a4beb0fce0b83d88d7868d7b17f33e96c915228cad35ada80535c,24845,09/23/2022,,Network Server,MI,Healthcare Provider,Hacking/IT Incident,No
+current,d7660068daf52b77b79d79320557e2ec2152797f3990d7dd7b91b573a6c244ba,500,10/14/2022,,Network Server,GA,Healthcare Provider,Hacking/IT Incident,No
+archive,7c50a2786c8f2a8b25f0104d1d81ef3ab4a6f5ca1ad4923cdfaf1672c4aa5f89,8179,11/30/2022,"The covered entity (CE), reported that its business associate’s (BA) subcontractor suffered a ransomware attack affecting the protected health information (PHI) of 8,179 individuals. The PHI involved included names, dates of births, addresses, Social Security numbers, drivers’ license numbers, diagnoses, lab results, medications, and other treatment information. The BA notified HHS, affected individuals, the media, and provided substitute notice. In response to the breach, the CE terminated its business relationship with its BA’s subcontractor, implemented additional technical safeguards, revised its policies and procedures, and provided complimentary credit monitoring services to affected individuals.",Network Server,PA,Business Associate,Hacking/IT Incident,Yes
+current,806ee9be788f158ba4b0ba089f565714b795a0844920068bca903eccda33b6f6,500,09/05/2023,,Network Server,CA,Health Plan,Hacking/IT Incident,No
+archive,86828c260c2b87e93455d37e2e326df5b27e524fca89a67b732337364e686844,331376,05/04/2021,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,d8c08da470db4ac245edb7461247a3949c9523ddbc22e545ed258a7d9ced042a,7528,01/12/2023,,Network Server,CA,Healthcare Provider,Hacking/IT Incident,No
+current,3512eda3af68d870c3fda2b44cd4bd73e9efee94921feb2f7b838c5bb17c8590,932,08/04/2023,,Network Server,VA,Business Associate,Hacking/IT Incident,Yes
+current,3f7a2176e20e7be425eadb6cf0230d11e4ff1962adb076709ea1048e172f1e4e,500,05/26/2023,,Network Server,PA,Healthcare Provider,Hacking/IT Incident,No
+current,3b3cdff3c6047f1dfce7bc22181e9700e1135b4bcf9baa44982f5930359e950b,192231,08/21/2023,,Network Server,IL,Health Plan,Hacking/IT Incident,Yes
+current,bcf1ba99e3e82a2d15b1020371107640bd49d47e401bca6e6b32e389ed06df92,85952,10/04/2023,,Network Server,AR,Health Plan,Hacking/IT Incident,Yes
+current,9529ec4bf67205d44616788e57daacd61c65a19ab8832a2d5ab538e9e4fccc25,2937,05/10/2023,,Network Server,KS,Business Associate,Hacking/IT Incident,Yes
+current,d6b06bacfbd98ca4ce4cc6bbd66138cca0903c18a3fe80f2a50139e5303a18d5,15585,06/03/2023,,Network Server,MI,Healthcare Provider,Hacking/IT Incident,No
+current,63924d746baa65e70ca5d81f203693ab91a5933146bbbf5c1667055adf3ad88e,917,09/22/2023,,Network Server,MO,Business Associate,Hacking/IT Incident,Yes
+archive,0348dd5c8e1ec726d5a7ac95f8ddcbcd6c76bf5324e395e38021e086ca167565,903,03/26/2020,,Electronic Medical Record,OH,Healthcare Provider,Unauthorized Access/Disclosure,No
+archive,5aff9ec41e7438ccfa39f22a3ea864b1f374ccae43acc1392d24a49d5db4bb86,1870,03/31/2021,,Network Server,NV,Healthcare Provider,Unauthorized Access/Disclosure,Yes
+archive,9a9f226cbf154d5598aa81d41c9572fb081174602abb59cc64963c0e5c74aac5,5423,11/30/2022,,Network Server,PA,Business Associate,Hacking/IT Incident,Yes
+current,a4ee9e7ee4529619f8d634ebb7f37f51b5ab3cfe1df26fe35a6c8aa3279081af,1750000,08/15/2023,,Network Server,OR,Business Associate,Hacking/IT Incident,Yes
+current,fe116542cb652a041dbda5205652c588b48095479d6b914cf29bc6e7aff6c1b9,504,07/28/2023,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,Yes
+current,5aff9ec41e7438ccfa39f22a3ea864b1f374ccae43acc1392d24a49d5db4bb86,12230,02/24/2022,,Email,NV,Healthcare Provider,Hacking/IT Incident,Yes
+archive,b981631ace89ed9146f6c7922d893cfbd9866cafaaca7b5f9acb7bf2c1bc0d57,18500,11/12/2021,"The covered entity (CE), reported that it was the victim of a ransomware attack affecting the protected health information (PHI) of 18,500 individuals. The PHI involved included names, dates of birth, addresses, Social Security numbers, drivers’ license numbers, claims information, diagnoses, and other treatment information. The CE notified HHS, affected individuals, the media, and provided substitute notice. In response to the breach the CE implemented additional physical and technical safeguards and retrained its employees on the HIPAA Privacy and Security Rules.  OCR provided the CE with technical assistance regarding the HIPAA Security Rule.
+",Network Server,TX,Healthcare Provider,Hacking/IT Incident,No
+archive,5aff9ec41e7438ccfa39f22a3ea864b1f374ccae43acc1392d24a49d5db4bb86,1300000,08/13/2021,,Network Server,NV,Healthcare Provider,Hacking/IT Incident,No
+archive,5aff9ec41e7438ccfa39f22a3ea864b1f374ccae43acc1392d24a49d5db4bb86,1833,03/31/2021,,Network Server,NV,Healthcare Provider,Unauthorized Access/Disclosure,Yes
+current,61d413d54f4fa43dc9094d57a52dcdb3195cbd28ef594268895558c0a40ca96a,1146,08/09/2023,,Email,CA,Health Plan,Unauthorized Access/Disclosure,No
+current,2c7d2f1c52d345dec52aa31549e6029c2fc87b144cdcb58dd0f6faf3c28b9585,2656,06/16/2023,,Email,AZ,Healthcare Provider,Hacking/IT Incident,No
+current,430b065b01c7127cdc4a060e1576a14fe15513cb3f4ffd47eaa6c9ef3b9834c9,6280,05/31/2022,,Email,NY,Business Associate,Hacking/IT Incident,Yes
+current,32c6197e977136b201c86ae16be98ee0d9070756478269ecfe827072546268db,9437,05/15/2023,,Network Server,CA,Healthcare Provider,Hacking/IT Incident,No
+current,e4d2e5adca9cb7611ff64048e4b92a8bf2a77a95417212902d3ac4e7dd48ea34,77258,03/15/2023,,Email,CT,Business Associate,Hacking/IT Incident,Yes
+current,65e7e1ba2fa39493dc4223640dd0d695809d65b286d1c253650d3efcadcaa1f2,2216365,11/11/2022,,Network Server,PA,Business Associate,Hacking/IT Incident,Yes
+archive,ab4b9ece4d6c40ee23f9f4c67176f777f79d2ffcfe977815de8e82ca2f37726b,6681,02/28/2020,,Network Server,IL,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,2d0cd854ea88502ed1ac2910d1276d05b4d622811a9095879792a981a039e815,66372,01/17/2023,,Network Server,CA,Business Associate,Unauthorized Access/Disclosure,Yes
+archive,29620fd8301c5bc38a34aca06f266b11305f2d02d5fa724da6945eebf85dfe06,3700,12/03/2019,,"Electronic Medical Record, Other",IL,Healthcare Provider,Hacking/IT Incident,No
+current,0613c0c70f213c6ee440990826238c7a96a63ac3cacb615eb77f57555de80762,999,03/29/2023,,Paper/Films,FL,Healthcare Provider,Improper Disposal,No
+archive,29620fd8301c5bc38a34aca06f266b11305f2d02d5fa724da6945eebf85dfe06,16089,01/08/2021,,Email,IL,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,6249a9e77ebc38afe52ec11a8973b0c321c4242270d253a0636b8f5d254268ce,134394,08/21/2023,,Network Server,MA,Business Associate,Hacking/IT Incident,Yes
+current,9bc9260af16bd91df695122025b427acac7265084c423fb2b701db1ec120b1c7,500,02/09/2023,,Network Server,WY,Healthcare Provider,Hacking/IT Incident,No
+current,e900774196a4017313459a4b33a30584ceb4068770047689f27e2c54a5ce4c5f,14631,11/15/2022,,Network Server,CA,Health Plan,Hacking/IT Incident,No
+current,43c29f161875bef00e97a7439e8aaea73d667b735ad4e9a05ec09190d539a5d1,6948,06/07/2022,,Email,NJ,Business Associate,Hacking/IT Incident,Yes
+current,29182b3180e4d8a416bb8063064bb772ec45e1a26f63846296cf262e83e6e6a6,4596,12/19/2022,,Email,CA,Business Associate,Hacking/IT Incident,Yes
+current,f6a50f6cb3f0a8ab1532ca7109aae617ed0250c564fcba6ee65e970be0871aab,197730,07/13/2022,,Network Server,OR,Business Associate,Hacking/IT Incident,Yes
+archive,026bc1b967614ba2b3470b2a74062f1227313ceff990491913845902ad34589b,67000,11/11/2021,,"Electronic Medical Record, Network Server",MN,Healthcare Provider,Hacking/IT Incident,No
+current,1beafac999721e2a5fca6913083823523d52d9f2b317bfdfd3095e8a7e4ca684,183254,07/13/2022,,Network Server,OR,Business Associate,Hacking/IT Incident,Yes
+current,cda677b7e3383b4bcead28dbbd3763b790bd6887bf42071c8e07e5ec14ad6e78,23082,08/15/2022,,Network Server,SC,Business Associate,Hacking/IT Incident,Yes
+archive,8448b8ef6bdca4fa6019766eb20cb75779371325b5f0419cbe628a97cd1c7e80,319778,10/22/2021,,Network Server,TN,Business Associate,Hacking/IT Incident,Yes
+current,7475e834b7b3b75a792a6a1e5e8467ad55c27e7127e66c55a2e7c248d3b1e732,4563,08/08/2023,,Network Server,MA,Business Associate,Hacking/IT Incident,Yes
+archive,b152ca2019a9a16c60e22f627f8ead14fec8ac1de2c2b77efa29a03b544db26e,141165,06/19/2019,,Network Server,MO,Healthcare Provider,Hacking/IT Incident,No
+archive,2f718fb737d6482729e6d95f02f4e05a79a16505b9fb1b1917105b2a8e3ed01a,1151,06/04/2021,,Network Server,MI,Healthcare Provider,Hacking/IT Incident,Yes
+current,e76538b3bb1ff1121785329f53dccb898ac5626776f33ab42b23f27061966bdf,1362470,07/28/2023,,Network Server,MD,Health Plan,Hacking/IT Incident,Yes
+current,cd484e9a17e23dc20c6bdf8a668448457dd8bbf1ee387a3bf8c174d1323bdc97,24400,07/19/2023,,Network Server,PA,Healthcare Provider,Hacking/IT Incident,No
+current,dd58f32f9356784061a495dc1ebff1336beee2b6e61f5f5d704cd15ed59918e8,501,05/24/2023,,Network Server,IL,Healthcare Provider,Hacking/IT Incident,No
+current,fe76126c5487a5fdfd17272a868055860ae4da1e4b87f94041cdb9cc258dc137,1403,05/11/2022,,Network Server,AZ,Healthcare Provider,Hacking/IT Incident,Yes
+archive,d46aba52789610307e9ae49c1e60b5a43d033294b505d3a299b263014dabbdd5,518,04/24/2020,,Email,MO,Healthcare Provider,Hacking/IT Incident,No
+current,01ad6a00236e506aac503ac1504df96a2e6cefcc35431618e07f46a2781f6993,1647,11/22/2023,,Email,IA,Business Associate,Hacking/IT Incident,Yes
+current,3392c3f48b8a115460758b938bf6e40a79a43e90484056a6718a0a8b8b4795be,501,11/17/2023,,Email,KS,Healthcare Provider,Hacking/IT Incident,No
+current,8ff8d42bef6e1ef40d899b0840e67214a861deef39e1aa23792260222aceb3ab,1097,11/15/2023,,Network Server,IL,Business Associate,Hacking/IT Incident,Yes
+current,0bbf9a5c7c73535e69e972bde0d41258fbbf5cbc2bee22c11fb6b8e012ccf7a8,2484,11/15/2023,,Network Server,CA,Healthcare Provider,Hacking/IT Incident,No
+current,227739c965598a2d075c01c36bea58ad3f0f7085495aabd93a22410ad032ee8e,78692,11/14/2023,,Network Server,TN,Health Plan,Hacking/IT Incident,Yes
+current,d211ac1ce671ad7c5fdcf550c8714cc0bb4556301c68603a14806174ca54045b,240667,11/14/2023,,Network Server,WI,Healthcare Provider,Hacking/IT Incident,No
+current,16e88c3ab2e387c4d860c8503b128f651d4adbcad900d6dacf68921c0e0b9801,28531,11/14/2023,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,No
+current,b05541c543b17ecbafd577024e7c1725506e802143de8daec9f413387702d076,17147,11/13/2023,,Network Server,UT,Healthcare Provider,Hacking/IT Incident,No
+current,df2cad7433f9788a2e11be8960cf52ae13b027e15d4369864556737845dcca20,1758,11/13/2023,,Other,SC,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,34f79561266afb4a19311df19af75f702a48ae510584c3d1bc90a7536bf728e9,6691,11/10/2023,,Network Server,ME,Healthcare Provider,Hacking/IT Incident,No
+current,4ee35f0b1f9fa45e23e763ecceadb7f7923668608df8eb8bdd78559961edba24,501,11/09/2023,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,No
+current,1bfc53f698f57991bd62ad9aadd68acf34a4c4e2dd9c1388f681b5fa291709d8,168921,11/09/2023,,Network Server,PA,Healthcare Provider,Hacking/IT Incident,No
+current,8cd67273b6379541bc93fd0036f492d7c42b4e5de64815a8a0590fec51a638d8,1756,11/08/2023,,Network Server,OH,Healthcare Provider,Hacking/IT Incident,No
+current,d87df74714cbd7bdcb56efc8ea4b059255de01404184a0b0ec8ce17b20d5b8f9,13129,11/07/2023,,Network Server,MS,Healthcare Provider,Hacking/IT Incident,No
+current,90de9efd5398b6268b7b8d200f08e975823362fbf03dc246bc179afcb7d477e7,1204,11/07/2023,,Email,CA,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,f7b102534d8de5a1caf7954c24112d4312bd479aceab1ab21f5e111aa854785b,501,11/06/2023,,Network Server,WA,Healthcare Provider,Hacking/IT Incident,No
+current,1cd5517440829366751ccb9ba6a1ab3bf4c1df8d9f9ed0613450f19cae35b5cd,8493379,11/06/2023,,Network Server,CO,Business Associate,Hacking/IT Incident,Yes
+current,20eb070b0b44be80a8f21971ccd87f8ef5bc62351571efe3b061a2dd54c5f872,501,11/06/2023,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,5cf46412f7ebc0c8642abd1ea73c490e8f8d2c055e70c7a066fe5afe3adf89d5,1000,11/06/2023,,Network Server,GA,Business Associate,Hacking/IT Incident,Yes
+current,41171268e7e61b9b1c8003a58d072ddbf4bfa2a3144922bf15e50990bd97b575,164796,11/04/2023,,Network Server,GA,Business Associate,Hacking/IT Incident,Yes
+current,9213d87374636c10e1edc34704c6486a990015d683d8be30b5678854a14b51fc,1152,11/03/2023,,Network Server,MN,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,4b844f3731ee96a9e01e46d17208081657a4aa98dcf455d434b43a9c65131196,845441,11/03/2023,,Network Server,CA,Healthcare Provider,Hacking/IT Incident,Yes
+current,f432f264cea3254fd2b0830b0c200c4027657465fa2c152757401a9cf8b3b3a6,100643,11/03/2023,,"Network Server, Other",TX,Healthcare Provider,Hacking/IT Incident,Yes
+current,ca40134a1c2bbe9ad84063618489e4d67f544d13d7513bc32f5b593b8c2418fe,8952212,11/03/2023,,Network Server,NV,Business Associate,Hacking/IT Incident,Yes
+current,0419de3842f1d2a91ff7185a69eb688de71cef3deb3c96ee05cba8e216ea403b,13000,11/03/2023,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,2479b8998649f6be5d42f64c9c09461878bc4781d5c389713bb77e46e997fea7,1380,11/03/2023,,Network Server,MN,Healthcare Provider,Hacking/IT Incident,No
+current,02b76982004ed39a7fe278714a9a6a9e60a217212b528d5b3e0946e8ef963e60,20045,11/03/2023,,Network Server,MD,Business Associate,Hacking/IT Incident,Yes
+current,52358cb67e3159e4d3ea475ee93c3f4b065a91732ae26aaa1848aa266e7a4257,5832,11/03/2023,,Email,CA,Healthcare Provider,Hacking/IT Incident,No
+current,7cbdc7cbec6b93f1d07c099e61fe1e0a68f1a45664e64cfde746fc602b27c94a,79582,11/03/2023,,Network Server,NJ,Healthcare Provider,Hacking/IT Incident,No
+current,77a0f2d2f3e10b5aaebc198ee2c13618b35d4d74392c5e22efa84b873da83ac3,2364359,10/30/2023,,Other,CA,Healthcare Provider,Hacking/IT Incident,Yes
+current,8ee9d2c1b392d93b3e62b0009dfd1d4447deeda7833eea4cac0d1dd7a2fc924c,1670,10/30/2023,,Email,TX,Healthcare Provider,Hacking/IT Incident,No
+current,6e95d22b21af43d5b0b2a8fd8462499b20adcd44da6310edeb9c63a65864d263,600,10/30/2023,,Network Server,,Healthcare Provider,Hacking/IT Incident,No
+current,9b68a7b801e7714afbb495d2b4ab482e89118e12e3ba4358d23f13bf880cee22,5100,10/29/2023,,Network Server,IA,Business Associate,Hacking/IT Incident,Yes
+current,1a753af387e70e6917d33666c8eba32fbd6d77ab2216a308ca23aa6fdbfa8170,27800,10/27/2023,,Network Server,CO,Healthcare Provider,Hacking/IT Incident,No
+current,0c5c17b3a2e3c5a7c433d9325e4e351ed3b11e5e02e86fce30ee35d620ccb94c,777,10/27/2023,,Email,MS,Healthcare Provider,Unauthorized Access/Disclosure,Yes
+current,f3678780ced0e0d503c3bf3008e47146da9574126369f16206e0be77cd942b87,13862,10/27/2023,,Network Server,MS,Business Associate,Hacking/IT Incident,Yes
+current,9ce835a47b0572279a98ec75a7889acd3213e7263e632d6badfc34e9eb874f4d,500,10/26/2023,,Network Server,IL,Business Associate,Hacking/IT Incident,Yes
+current,8ca98606f4e485df9d24a61a4089c495b543daa4d9c698c515f17f4331486d96,279156,10/26/2023,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,7addafd8030f8f0a17324a9bf7617a8607adb275a56b5a519b6df60f4ada9a3f,350863,10/26/2023,,Network Server,MS,Healthcare Provider,Hacking/IT Incident,No
+current,cbf1615ee6c2cdb36281fa629a3c672b260511adb8746ca6b24f7d7cc759b28e,14912,10/25/2023,,Network Server,VA,Healthcare Provider,Hacking/IT Incident,No
+current,262a382400a67323ed63c9e238caa2730ee30f49438281805249139d637b154a,6684,10/25/2023,,"Desktop Computer, Network Server",FL,Healthcare Provider,Hacking/IT Incident,No
+current,780e4b8c91f5eb071c5ecb6252028ac0ca406c65fc5120aa62d2a01d2393e49d,768,10/24/2023,,Network Server,CO,Business Associate,Hacking/IT Incident,Yes
+current,84d5f6b80ab1203008a8bb5806c5ac4b79524688950a643f4283c3b57e54adb0,2187,10/24/2023,,Paper/Films,LA,Business Associate,Unauthorized Access/Disclosure,Yes
+current,7b1cd061962e032a4d9be708734d34709855ef443a53c09fafa600d0df3f8f04,61033,10/23/2023,,Network Server,MI,Healthcare Provider,Hacking/IT Incident,No
+current,1349da2f7ff15c4eb803db394d27c4a6ab2965080cb2db726fdfd8193e2fdf0c,107143,10/23/2023,,Network Server,ND,Healthcare Provider,Hacking/IT Incident,No
+current,7ea2653daf64f4a28331cd59fc68b59ef2c6a98e14e8754bea09ad16c70f233e,501,10/20/2023,,Network Server,DE,Healthcare Provider,Hacking/IT Incident,No
+current,dfdae4f09516659ab7f634e53f266cf9de6ab8dfd4631458b07b1c52041cb1d9,501,10/20/2023,,Network Server,MI,Healthcare Provider,Hacking/IT Incident,No
+current,4102e4839ba82711c15ba4e323df65229702c64ec066e0324c334646c663012b,501,10/20/2023,,Email,PA,Health Plan,Hacking/IT Incident,No
+current,134f5961d84032c0289661cde93ed076d3e05a516c6ab298a09845df83d5b6d0,135742,10/19/2023,,Network Server,PA,Business Associate,Hacking/IT Incident,Yes
+current,42d4a8641efcea479671eb1b5a35ddae943ac305dc3b442ad867060d75d8ed09,3365,10/19/2023,,"Desktop Computer, Email",OK,Healthcare Provider,Hacking/IT Incident,No
+current,9d08dbc60cac791cd2a14a2c3655e30b9bb6a3dae1c4478bedc8f5649a80015a,16598,10/19/2023,,Network Server,IL,Healthcare Provider,Hacking/IT Incident,Yes
+current,3c8627e4fe192a5aa631d40635247aadd67edf5a977ae5cdc70a30b37ef12835,600,10/19/2023,,Desktop Computer,CA,Business Associate,Theft,Yes
+current,bbd9752bfdfaa3b60058807554f89c5d70f75f7681c34e211079742843994d68,1045,10/19/2023,,Network Server,NY,Health Plan,Hacking/IT Incident,No
+current,9353516af2ae3338bcf8f339aade10f6bf4f743c57b36b7a5336fd1c2767fed6,501,10/18/2023,,Network Server,MS,Healthcare Provider,Hacking/IT Incident,No
+current,c2f98161d3b9c2de0f5ddd3e734ebd7fcc59bd78b0faa426ff9d1aefdd31f133,4049,10/18/2023,,Network Server,MA,Health Plan,Hacking/IT Incident,No
+current,3c40ebe39238b7960abfbae07aa656b080c603ce89f0a7872885da19d9dae23e,628,10/18/2023,,Email,TX,Healthcare Provider,Hacking/IT Incident,No
+current,94d211f3544deec3991ae8929572ce6d508252358213071f38262d372680195c,11438,10/16/2023,,Network Server,PA,Healthcare Provider,Hacking/IT Incident,No
+current,0a94695abfd07d91cac28da94e8b28f6779f603d74fd7967b17e5d2cf6134b7b,626,10/15/2023,,Email,OR,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,02b76982004ed39a7fe278714a9a6a9e60a217212b528d5b3e0946e8ef963e60,50065,10/13/2023,,Network Server,MD,Business Associate,Hacking/IT Incident,Yes
+current,a547179613d10d947892e20c43778cc1f5567fb0953ddb0aa5224bf0517f39e9,10831,10/13/2023,,Network Server,CT,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,21b8b2e856af774e9e20aaacb54f35b2018bc78a4dd59f66c0889f60926dbddb,2956,10/10/2023,,Network Server,GA,Business Associate,Hacking/IT Incident,Yes
+current,c7b86d26a35b3b5889f85d4fce15e44467b6f52442544ff2708a958392f9b958,1857,10/10/2023,,Email,TX,Healthcare Provider,Hacking/IT Incident,No
+current,18a2ef9e5df39a8cebfef16e0d0a8eb1bb13a50895ca1b97a7a48770c23ef644,2035,10/09/2023,,Paper/Films,GA,Business Associate,Unauthorized Access/Disclosure,Yes
+current,64d6c009ca026a42a9f10bdbe3ed4e9535de99c21ee6f60fd7826b3c2a7e8839,501,10/08/2023,,Network Server,NJ,Healthcare Provider,Hacking/IT Incident,No
+current,30aa87b70c1e24249feef437d5ce32aac4c34fce1bd4ce35f541c1337433baa4,48459,10/06/2023,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,d26cf7ad2a93aeaf645ec4d62b5b2f701c6f3165b12ae9771a0645f3f0538ee4,1599,10/05/2023,,Email,TX,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,01eaf872859f7b660e0757f2b5919547864c10f298b035192ed1a796d066b849,679,10/05/2023,,Network Server,IL,Healthcare Provider,Hacking/IT Incident,Yes
+current,9fc47a238672f08d655e55f8e93237887c618a17580e576f7669647428707680,5200,10/05/2023,,Paper/Films,FL,Business Associate,Unauthorized Access/Disclosure,Yes
+current,6ae2b348d50048ed1a00b6cf4ec3f40cbb210f48e2bf6001b11b29982e5d4955,571,10/05/2023,,Network Server,MN,Healthcare Provider,Hacking/IT Incident,No
+current,3c742216c23b80fba436ad282de29e5028e14cb526ec2ae0e21b5e998f019fdf,85952,10/04/2023,,Network Server,AR,Health Plan,Hacking/IT Incident,Yes
+current,b57919c9072f0af69fe555f119914daf4f4363c8b4aaee0a1a66822d7b48bb7e,7300,10/02/2023,,"Electronic Medical Record, Network Server",TX,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,620dd1cd5ea13ea73ace6e73823330fe315d82bf07750e22d41c19c5ff749893,1975066,09/29/2023,,Network Server,FL,Business Associate,Hacking/IT Incident,Yes
+current,29ae772528d363510d24fd1382c32a1de98c0e06dcee34f3ac3aa591f6d6036b,342376,09/29/2023,,Network Server,CA,Business Associate,Hacking/IT Incident,Yes
+current,bdaf8e0a6ac38fa79f0fd1621e47fe30140c14d6acc1f30a21fda6f7b8a4439b,895,09/29/2023,,Network Server,GA,Healthcare Provider,Hacking/IT Incident,Yes
+current,97c3c1a107491961191d53e194d3e98487ead754f4ddd67cfd1609767f4589c1,1280,09/29/2023,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,7e1ff719282ff908021979858f324abbd17c2991eb3c86208937c9104cdd944a,630755,09/29/2023,,Other,NY,Business Associate,Unauthorized Access/Disclosure,Yes
+current,83c4d4f38fd41ce1a9d3a8d514452eb15061722c1867134f24c355446d1eba54,9580,09/29/2023,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,b7f4c4ab41a12637f74f43057fee1d6051c5c219b0e39e507c34b0761751c22c,501,09/29/2023,,Network Server,AZ,Healthcare Provider,Hacking/IT Incident,No
+current,fea328d590c8336b9e055095c841b07a3e5b58f8211726d95446f5b216f69573,37774,09/29/2023,,Email,TX,Healthcare Provider,Hacking/IT Incident,No
+current,3a23853f2ec13c83e3986d4c903ebb01094977cbb3f4df4864f9d614d92e74bc,143833,09/29/2023,,Email,TX,Healthcare Provider,Hacking/IT Incident,No
+current,c496326f2eee4bf7da4f5d0e44b7446c7165624ab632c89d4b7ae395d6fd853c,2729,09/29/2023,,Network Server,FL,Business Associate,Hacking/IT Incident,Yes
+current,3813c84a309122c8c87998d607ad35ab542e1420b90d295a134a0c8716eb040e,129463,09/27/2023,,Network Server,AL,Healthcare Provider,Hacking/IT Incident,No
+current,409812258c6485a4b6bbedecd4cd797b23cf45403773419297edb05133ad8841,6814,09/26/2023,,Email,KY,Healthcare Provider,Hacking/IT Incident,No
+current,43ac908246839ba01ba8920d0e1311a68daf08aa46b2d292a4ca20460073e6e7,1110,09/26/2023,,Network Server,NJ,Healthcare Provider,Hacking/IT Incident,No
+current,185c968a45cdc8e1e6fd8dcb5b9a97ffa7320f2979257bf93b054da57711577c,1922,09/26/2023,,Network Server,AL,Healthcare Provider,Hacking/IT Incident,No
+current,6f50564beaff52d8cee28ab5c74dee09bdd6841c205f50ba57c62cc1428e984f,216047,09/26/2023,,Network Server,IL,Healthcare Provider,Hacking/IT Incident,No
+current,177c0e7c4b64d1e536b5a8da9d2b13bb4ec6057024fe61d5ff049ff3b67d8c4e,7281,09/25/2023,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,cf16487c287890cce1e446a8356b6cc27b2b3f1e966d845c86555f976754d769,718,09/25/2023,,Network Server,IN,Health Plan,Hacking/IT Incident,No
+current,58178387a89a74ebd1a95008b725a674951425c3005bafa647c00c4a991671e4,500,09/24/2023,,Network Server,IL,Healthcare Provider,Hacking/IT Incident,Yes
+current,1a7312f9b6c447bd9765b1368e2549d59dc74c70e3446c491a161fcfa280f3b2,917,09/22/2023,,Network Server,MO,Business Associate,Hacking/IT Incident,Yes
+current,c7f25dd69b876a022a70cd55203f9594acd00c782bf94fe07f0a1de2f32869e8,176203,09/22/2023,,Network Server,AK,Healthcare Provider,Hacking/IT Incident,No
+current,a0c59f8469899f9376dae226c39e2054af63edc2a4939836e497b6316b464b22,1505,09/22/2023,,Network Server,PA,Business Associate,Hacking/IT Incident,Yes
+current,673476f01f480b21fcce10a91b6cdd2b7459989c424e55d8fe2bdb9306bd1af8,3708,09/22/2023,,Paper/Films,IL,Business Associate,Unauthorized Access/Disclosure,Yes
+current,5f7f9f6665d1b4663a67da9d9854bab19810399b5c5878bac10e8f1fa3da11f1,2834,09/22/2023,,Network Server,NJ,Health Plan,Unauthorized Access/Disclosure,No
+current,d95a714c502a5a14c73f1b5280992b111e08d73497a0b405fa37dc483ca0db18,4194,09/22/2023,,Network Server,IN,Healthcare Provider,Hacking/IT Incident,Yes
+current,84bb85c4f863eeb6eaff7689a11b440fe5d278c5d367f25fe88dab2db9a51257,14171,09/22/2023,,Email,FL,Healthcare Provider,Hacking/IT Incident,No
+current,a7e17c99d6f3ab30a7fbf2b6c527cc4961de1c6222f77bea897d48060d933085,728,09/21/2023,,Network Server,GA,Healthcare Provider,Hacking/IT Incident,Yes
+current,bfceedf9c468ee290d9536d07500c9e0b5314a3abbd351834b38debd72f9253b,624,09/21/2023,,Email,MN,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,8a7dfe2e7f4aee2eabd0fbaa0f2d94c0250f565849e5fa9f654f318be682094f,578,09/21/2023,,Network Server,AR,Health Plan,Hacking/IT Incident,Yes
+current,bc711a7d7486a5f50737ca86a66843225005f9f027856092d86f6e972dba41f2,5364,09/20/2023,,Paper/Films,TX,Business Associate,Unauthorized Access/Disclosure,Yes
+current,4ee424b35e0a0a4de85aa8a3a23886d77fa17aaa4e02e0c0975b0c4476a9ea9e,1229333,09/18/2023,,Network Server,VA,Health Plan,Hacking/IT Incident,Yes
+current,2eb766b467860961e94536e09d85639680b056c6d026dba8fb4af7cfc8208799,2753,09/18/2023,,Other,TN,Healthcare Provider,Hacking/IT Incident,Yes
+current,3773a6205e3cbbba39afbce27e10e57aa748dbbed64706cdb927eb17d77c1ef3,1225054,09/15/2023,,Network Server,MA,Business Associate,Hacking/IT Incident,Yes
+current,e12f11a9ff01c7c91d2543c647268625b2ee152525f9a0c43b6b6005a21ec47f,283629,09/15/2023,,Network Server,CA,Healthcare Provider,Hacking/IT Incident,No
+current,4dcd748ed6b64c907c405696918c4645aafe392fb397b218452cd28651a384d1,430381,09/15/2023,,Network Server,PA,Healthcare Provider,Hacking/IT Incident,Yes
+current,382e54cf065e7c25441a6cd513be30cef76a7fdb123bc0d5899cbe9acfc07e17,661,09/15/2023,,Email,TX,Business Associate,Hacking/IT Incident,Yes
+current,6c1d1b53c956fbced03f2c972beebf31d0e02c82cd08e2aa8e33666f48b3cbb8,30836,09/15/2023,,Email,TX,Healthcare Provider,Hacking/IT Incident,No
+current,20eed606b70a50b2df21569e7db56c630d82852942cf125f1d9f80e323ee75e7,1246,09/15/2023,,Network Server,GA,Health Plan,Hacking/IT Incident,Yes
+current,84ed64454eb851b7bdaf1a243de9c8b102d3c34c3ad600dd34358cdc1ffbec59,2502,09/15/2023,,Electronic Medical Record,MO,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,64378605b79ee01a9009261aa4d8164c5f183a82dd3c7332a6e6996c658de98c,928,09/14/2023,,Network Server,VA,Health Plan,Hacking/IT Incident,Yes
+current,48a487de39f60c89e8c03c895c2e7cb8f7ea87cd30719d92d3944c0e22224c07,3749,09/12/2023,,Network Server,FL,Business Associate,Hacking/IT Incident,Yes
+current,5babfaac83beaa767a1965fe205eb43619c3e8df7300bbc78b54be5ae442da91,861,09/08/2023,,Network Server,CA,Healthcare Provider,Hacking/IT Incident,Yes
+current,cb9264ac4f57f21eea7989a3a152a7869c88edbb5b3f4b740687a7b1a7cc2292,1431,09/08/2023,,Other,NC,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,579576e142420c1ff9d87c45a80e67732458b97975f958fea094fb2fc55861c8,7252,09/07/2023,,Network Server,CT,Healthcare Provider,Hacking/IT Incident,No
+current,bcc429e2fe63553d0cd770d35530df6bebef38d73ffa71e48c26bf852cbf1dcb,315915,09/07/2023,,"Network Server, Other",CT,Health Plan,Unauthorized Access/Disclosure,No
+current,bec4ecfcaa2b623c950bf06a63cf6304dab55e781e3635815af819b749cc7aa9,4622,09/06/2023,,Network Server,NV,Healthcare Provider,Hacking/IT Incident,No
+current,df1babfa71ec591b465b0dba95163c73307542d6693de44115c340109ee75bd2,219707,09/05/2023,,Network Server,KS,Healthcare Provider,Hacking/IT Incident,No
+current,806ee9be788f158ba4b0ba089f565714b795a0844920068bca903eccda33b6f6,501,09/05/2023,,Network Server,CA,Health Plan,Hacking/IT Incident,No
+current,5ab4fcf3200f7d666c64ef4b965240d73fc7e9c9bdd58577dc9312ed44314fd5,242986,09/05/2023,,Network Server,MS,Healthcare Provider,Hacking/IT Incident,No
+current,80f45de254d076b8f7025853c196dc2ff61937cc7e45260de42e263c96b905e4,20498,09/01/2023,,Email,GA,Healthcare Provider,Hacking/IT Incident,No
+current,35d3ff16257cb30af88e55f1560bb7f979d83eb824c1fa2a767f637ab1783ad4,1545,09/01/2023,,Email,MD,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,6c5cdc4fda633405ad32dbea118063e5af9e6edb7e5d48c4e8601e51b056e508,950,09/01/2023,,Email,MS,Healthcare Provider,Hacking/IT Incident,No
+current,ebbe70b0a7c83e7407ac5334ef5d33bd3359a897a508473af4dc2b3381993ebb,12146,09/01/2023,,Network Server,MA,Healthcare Provider,Hacking/IT Incident,No
+current,a588dd91620a2dead9b88cee27fffec260beb0f8275c038f648f27147eb34724,1700,08/31/2023,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,665f62326c849387bd5877877e20ad6e3af3e3dfe378aa378c87137792854d08,5139,08/31/2023,,"Electronic Medical Record, Network Server",MA,Healthcare Provider,Hacking/IT Incident,No
+current,d95a714c502a5a14c73f1b5280992b111e08d73497a0b405fa37dc483ca0db18,1191,08/31/2023,,Network Server,IN,Health Plan,Hacking/IT Incident,Yes
+current,2a704c2c540c66148dd292542f6fb60a9e805a1f41126963561737c8f73c96c1,2953,08/30/2023,,Other,CO,Business Associate,Unauthorized Access/Disclosure,Yes
+current,163b245b661a88f0e97aa41a7259bb73a9ca47666c37481d27efa1a13bff8487,1722,08/30/2023,,Paper/Films,CA,Business Associate,Unauthorized Access/Disclosure,Yes
+current,b3844f70227fa5de0b5a9bb4010fc30d5e2d23d7ba0e0cb57c770a16f03f4783,1229333,08/25/2023,,Network Server,IA,Healthcare Provider,Hacking/IT Incident,No
+current,c10c946c411f20f297160632f4125f0e86978a85dcd9c02432a2d65a22ed3d5a,9703,08/25/2023,,Email,LA,Healthcare Provider,Hacking/IT Incident,No
+current,18a2ef9e5df39a8cebfef16e0d0a8eb1bb13a50895ca1b97a7a48770c23ef644,74730,08/24/2023,,Other,GA,Business Associate,Hacking/IT Incident,Yes
+current,93a7f2c1ab8144cd737c7fca5438214f5ad4b915c9fd27a8ca71c078311f9f50,1412,08/24/2023,,Email,MI,Healthcare Provider,Hacking/IT Incident,No
+current,e83b7584750989436ff5c04c92ac253f021564f9f3850d07f2515cd43444840e,74884,08/24/2023,,Email,ID,Business Associate,Unauthorized Access/Disclosure,Yes
+current,0f10f58db3c7c2079c694e25489f75230022f504f1a37833381afff357fca45e,67336,08/23/2023,,Network Server,GA,Healthcare Provider,Hacking/IT Incident,Yes
+current,9f7b42d7adc907fc5a7a9c53967bb5d802d676a91cea5fb5a1504d18959cd7b5,6050,08/23/2023,,Network Server,MN,Business Associate,Hacking/IT Incident,Yes
+current,8e539adf8c29c77456f5779371049acf9cf40ab74d4fa5be924925429851471b,1339,08/22/2023,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,No
+current,46089900a67d3b2c6961d41196f6864b1d75942f44efec51c79ec56803e0c17f,10140,08/22/2023,,Network Server,VA,Health Plan,Hacking/IT Incident,Yes
+current,15673746040f85cdb937baf9e692aa4a7a0958b87d348a32c957daf5f0d44ba8,10037,08/21/2023,,Email,NC,Business Associate,Hacking/IT Incident,Yes
+current,267d29f67b44ed56b796a6fbc8c11ccf551f97ec3c72ebedf868342bdbf14013,500,08/21/2023,,"Desktop Computer, Network Server",OK,Healthcare Provider,Hacking/IT Incident,No
+current,6249a9e77ebc38afe52ec11a8973b0c321c4242270d253a0636b8f5d254268ce,135394,08/21/2023,,Network Server,MA,Business Associate,Hacking/IT Incident,Yes
+current,3b3cdff3c6047f1dfce7bc22181e9700e1135b4bcf9baa44982f5930359e950b,220913,08/21/2023,,Network Server,IL,Health Plan,Hacking/IT Incident,Yes
+current,03c88daededc5c2f2c4a1ce3eeff8abf9dae2e7f6d20fee559e9bb71613d5717,126000,08/18/2023,,Network Server,IL,Healthcare Provider,Hacking/IT Incident,No
+current,524c5537ac7b7740f5d7cb8807dd25f3bf13613fc4f46e99701f678c3286b99e,2603,08/18/2023,,Network Server,IL,Healthcare Provider,Hacking/IT Incident,Yes
+current,fd3d9fddff3442f2ba493ab4abea464d0e10af4ce0b7426acf44be10efc8cbd8,8175,08/18/2023,,Network Server,KY,Healthcare Provider,Hacking/IT Incident,No
+current,6639c493265cc29edcb3c2ebcd31cb411721b4d70c7fc2a9e15dbd1412782d56,501,08/17/2023,,Network Server,GA,Healthcare Provider,Hacking/IT Incident,No
+current,5ccbd15f05b4f2befef89a1fd6a9bfce9bac8689fe18e5571ba620f3d97e70e1,248943,08/17/2023,,Network Server,IL,Healthcare Provider,Hacking/IT Incident,No
+current,50f5a0f278386912280401c38c3bce048d272c386b2881eb98ad302d6c2220a9,599367,08/17/2023,,"Network Server, Other",TX,Healthcare Provider,Hacking/IT Incident,Yes
+current,9f6c101446ec804501a012b935e7be2ea47f6d43da60555107a712b542f14061,47485,08/17/2023,,Network Server,AZ,Health Plan,Hacking/IT Incident,Yes
+current,ab74a9261a3b739dfa2dcac2eb517e9338d77180575ac626fdd38d96bb8d26ce,501,08/17/2023,,Network Server,TX,Business Associate,Hacking/IT Incident,Yes
+current,bcc429e2fe63553d0cd770d35530df6bebef38d73ffa71e48c26bf852cbf1dcb,527,08/17/2023,,Network Server,CT,Health Plan,Hacking/IT Incident,Yes
+current,78f8854a44c6a7a4a6b89f5873c1f668b1b73541ac5d7af99c30ad5bfab0f11d,24757,08/17/2023,,Network Server,OH,Business Associate,Hacking/IT Incident,Yes
+current,6d75defea54bde9c548e9ddc0f49dfa5e3bed72f12dafb56911ba22b00a44cf3,765,08/16/2023,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,Yes
+current,04d8e16b55708c5ff0b6a57da8778a3625e1faf761f72596b8eeb79edb0dafc4,2800,08/16/2023,,Network Server,PA,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,ab47bf7eeb40db663f5cf519e8ae6eaee8df0f20978d80202eba553d2350c05f,4140,08/15/2023,,Other Portable Electronic Device,NJ,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,a4ee9e7ee4529619f8d634ebb7f37f51b5ab3cfe1df26fe35a6c8aa3279081af,1752076,08/15/2023,,Network Server,OR,Business Associate,Hacking/IT Incident,Yes
+current,2e7b7d08b9920eae50730ecf287e210e718e7d8627517a1ba85f0c67bc873adf,3914,08/15/2023,,Network Server,UT,Health Plan,Hacking/IT Incident,Yes
+current,840e8984effe226d880f5a619656b37fefaeb50d6dc92332c9ba15ad2855548e,4000,08/15/2023,,Laptop,MD,Healthcare Provider,Theft,No
+current,2d6d0ae513d2a3d69bea4817c352de7673f03942445b1cbcb1fe3cdd82205307,8487,08/14/2023,,Network Server,NJ,Health Plan,Hacking/IT Incident,No
+current,dc28ff64fb66201f3d2e77703e461657800b418c0cd28339e364b82634699d23,7810,08/14/2023,,Network Server,MS,Business Associate,Hacking/IT Incident,Yes
+current,4c3747c833e2ad36a75e2bbcb934d2d579fc8d36c942723239060e87c053131b,103775,08/14/2023,,Network Server,NY,Health Plan,Hacking/IT Incident,Yes
+current,2c2c80988c75b71879e598573eee6008c9ad7cd966683900d3b24a09c425411b,47711,08/11/2023,,Network Server,TX,Health Plan,Hacking/IT Incident,No
+current,643cb6683eef373be63f043f508629c7eaf1f52ec9b69a9f69d522d6617028ce,4091794,08/11/2023,,Network Server,CO,Health Plan,Hacking/IT Incident,Yes
+current,cd408d402a9a2b484e6912fc5ff2bef731939800f06614e99f533f5d6fe5a70d,516,08/11/2023,,Email,IL,Healthcare Provider,Hacking/IT Incident,No
+current,62703401d03d4b3a8a8ce48068755cfe8c517051812eda8bc0afb601cbfd9cbc,350000,08/11/2023,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,No
+current,6ddae55cce20eaaf087c9511ba581a3176a753c6ec1e88a20dc40ed8a44471b0,223598,08/10/2023,,Network Server,NC,Business Associate,Hacking/IT Incident,Yes
+current,e0cf824213c14a45d71658a4ac3a0790723f50a463331ccbed95dbd39ae6b4b8,501,08/10/2023,,Network Server,FL,Healthcare Provider,Hacking/IT Incident,No
+current,5ffca4e6d23a151499e289e8e90c0070aac075659048580a808bffe2c7fc23c7,981,08/10/2023,,Email,SC,Healthcare Provider,Hacking/IT Incident,No
+current,9a2f79475b335fa556025ffcf972dc82879539caf4c530f0567798b2253d313a,5330,08/10/2023,,Network Server,IN,Business Associate,Hacking/IT Incident,Yes
+current,61d413d54f4fa43dc9094d57a52dcdb3195cbd28ef594268895558c0a40ca96a,1446,08/09/2023,,Email,CA,Health Plan,Unauthorized Access/Disclosure,No
+current,4ee424b35e0a0a4de85aa8a3a23886d77fa17aaa4e02e0c0975b0c4476a9ea9e,423824,08/09/2023,,Network Server,VA,Health Plan,Hacking/IT Incident,Yes
+current,7475e834b7b3b75a792a6a1e5e8467ad55c27e7127e66c55a2e7c248d3b1e732,18261,08/08/2023,,Network Server,MA,Business Associate,Hacking/IT Incident,Yes
+current,0e90eecdf3fb13e99dd8f6e8d4e69380e8407ecc126ed1dc61c0d91508dd4d4a,1997,08/08/2023,,Network Server,IL,Healthcare Provider,Hacking/IT Incident,Yes
+current,e28793252399dd46e589f6167359fe338ad62e4f9ec0e5bc1afc1cb83476910b,6267,08/08/2023,,Network Server,MI,Healthcare Provider,Hacking/IT Incident,No
+current,8bd78c8dadb8229127062fc49ed16d32323b83f1bc5ce1fef9a7a010ccf624a3,33212,08/08/2023,,Network Server,WA,Health Plan,Hacking/IT Incident,Yes
+current,8f351e7e84c5f2349e8b2ede3bfcf72c5ddafe4edd91ae6a71c7df5a8da8e84d,1100,08/08/2023,,Network Server,WA,Healthcare Provider,Hacking/IT Incident,No
+current,8c2e4e033948c5e3f8ad5b12e5f5b1a8bddc56b60e42ff1348ccf224e1f1512b,739884,08/07/2023,,Network Server,MO,Health Plan,Hacking/IT Incident,Yes
+current,e600dcfdf06a3095179391ed70e0fb82d6a488cb7e0e33131443b57ca8e205c4,1345,08/07/2023,,Email,CA,Healthcare Provider,Hacking/IT Incident,No
+current,7a63ede71f6c2fc5b12e82692d2c0d8925a29416729fa75b90c6fdfbf7f36fec,1247,08/07/2023,,Network Server,PA,Healthcare Provider,Hacking/IT Incident,Yes
+current,68deea39a512d8f8dae19966c86c8570dd3c6bd8e552f18a609f59e4b01250ee,3400,08/05/2023,,"Desktop Computer, Network Server",CA,Healthcare Provider,Hacking/IT Incident,No
+current,134f5961d84032c0289661cde93ed076d3e05a516c6ab298a09845df83d5b6d0,600794,08/04/2023,,Network Server,MN,Business Associate,Hacking/IT Incident,Yes
+current,3512eda3af68d870c3fda2b44cd4bd73e9efee94921feb2f7b838c5bb17c8590,2781617,08/04/2023,,Network Server,VA,Business Associate,Hacking/IT Incident,Yes
+current,d95a714c502a5a14c73f1b5280992b111e08d73497a0b405fa37dc483ca0db18,21383,08/04/2023,,Network Server,IN,Health Plan,Hacking/IT Incident,Yes
+current,0e65a38f09c27f51d11cafcbb85528f6e482ed0c0a46473167a4ee1a74a1248d,1769,08/04/2023,,Email,CA,Healthcare Provider,Hacking/IT Incident,No
+current,47c1885456cb42b1703fdf76ee2d5336c68508dfca65850699c82546ea7e2ef7,987,08/04/2023,,Network Server,MA,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,45f813f89039ee42291e9d345d9efba300479ed10b659023869ce9b77c59e294,531732,08/03/2023,,Network Server,TN,Health Plan,Hacking/IT Incident,No
+current,3546442bd6221da2be4b91831a8664c8b2daa7fb39354a5f026c7161eaad9b4a,30253,08/03/2023,,Network Server,TX,Health Plan,Hacking/IT Incident,No
+current,5f85156e4e3e362b8a13b67ebdeacb72502e624c5ca1245a44813ca29ac7451f,7313,08/03/2023,,Network Server,TX,Business Associate,Hacking/IT Incident,Yes
+current,1bbee2d1b1780cd6ef2191f93295fac98d16e7a653c00fa4a52a3c2f8a7c8891,518,08/03/2023,,Email,GA,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,28cf9528c89c24af0afd2b7ecb42b75fa38ef5f80b85f91e614287f189b8b092,4790,08/02/2023,,Email,MO,Health Plan,Hacking/IT Incident,No
+current,7d5547cb79fcbd3c0e88dc5136982216c159017ed9175fee44d01880041d9cce,798,08/01/2023,,Email,PA,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,ba8a53bcf870513822a4cd908dfafa8eb0b0451afcae63bff96d939450f15d39,1292,08/01/2023,,Network Server,WV,Health Plan,Hacking/IT Incident,No
+current,732addd70fcbd3fc25481658427b243d42a64c802863747a7e1a3245335008e8,11270000,07/31/2023,,Other,TN,Business Associate,Hacking/IT Incident,Yes
+current,77ccd6cd3107c66c4c5d54d3ed383a67b894db4f2ab5f6839111521a9a2877dd,2584,07/31/2023,,Network Server,MD,Business Associate,Hacking/IT Incident,Yes
+current,6112dca87f01774f80dcc2453e583f71dcb8462337514f37958961d4a19c332a,2975,07/31/2023,,Network Server,MD,Healthcare Provider,Hacking/IT Incident,Yes
+current,1069f45154c961de39c3148b821a3d21db69173470f624686aab09cc2c9595d8,25772,07/31/2023,,Network Server,GA,Business Associate,Hacking/IT Incident,Yes
+current,5431878126575a892b6f45e70cd32a2112e664a921fc9063b6be10a0d6c76cf5,3201,07/28/2023,,Email,CA,Healthcare Provider,Hacking/IT Incident,No
+current,7f2b4764e0d40c2e291632c7d093c82e32c2bf6f08c5d8bf3373dbfe0ff7fe52,1027,07/28/2023,,Network Server,MN,Business Associate,Hacking/IT Incident,Yes
+current,bcc429e2fe63553d0cd770d35530df6bebef38d73ffa71e48c26bf852cbf1dcb,398319,07/28/2023,,Network Server,CT,Health Plan,Hacking/IT Incident,No
+current,e3f49b60b2afe332cabcaf88326dcbc7f027aed67c0996e03e5397820dd465e6,53827,07/28/2023,,Network Server,IA,Healthcare Provider,Hacking/IT Incident,No
+current,899155e6f790a02d7a246e70ab49c5e955c0b4750b628f07d3a20a29663c8912,170450,07/28/2023,,Network Server,TN,Healthcare Provider,Hacking/IT Incident,No
+current,580af9a9abe23c0c19600c0401b5079f5c2f1a639022564e313fb2f03bf1abfd,689686,07/28/2023,,Network Server,PA,Healthcare Provider,Hacking/IT Incident,No
+current,0b6e4dc6ce2bd725a8dbc95b51726444090d47cb4a65787d761b4b576e8055bc,2430920,07/28/2023,,Network Server,FL,Healthcare Provider,Hacking/IT Incident,No
+current,e76538b3bb1ff1121785329f53dccb898ac5626776f33ab42b23f27061966bdf,2342357,07/28/2023,,Network Server,MD,Health Plan,Hacking/IT Incident,Yes
+current,c565985be70528e52a86e93cec6dc54943b06f12bdfedfa440911e7a4edd0af6,3085,07/27/2023,,Network Server,AZ,Healthcare Provider,Hacking/IT Incident,No
+current,d47f7fd2f0ed03575acc05bb3955bf2ef6eb4b0356439fee45427cb8b66521d3,3180537,07/27/2023,,Network Server,OH,Business Associate,Unauthorized Access/Disclosure,No
+current,5f1469f9510fad5bb280e0ae4aa7101a4b65bf0665bee0b5f85b1a3dbf1bc2ed,18911,07/26/2023,,Network Server,OK,Healthcare Provider,Hacking/IT Incident,No
+current,54a7a56b6d918157aefede8335e12c8c9e06554b234ce337b1acc9e94590b09f,70636,07/26/2023,,Other,FL,Healthcare Provider,Hacking/IT Incident,No
+current,94947f15f16d9f6481fe71fbdbab6e00422a7d2aef9c9bf02cf689cee1218aa4,19107,07/25/2023,,Network Server,FL,Healthcare Provider,Hacking/IT Incident,No
+current,3205aaa1d8698c5c3e1a2f266a707fd39c3a890c510f7cae5a5fbf27923a0adf,62631,07/25/2023,,Network Server,SC,Healthcare Provider,Hacking/IT Incident,No
+current,df721bfb07182f92bab79a5fb5f389bb3490c8e6a27ebb3474065b0436d481f5,4722,07/25/2023,,Email,CA,Business Associate,Hacking/IT Incident,Yes
+current,6d817d7d6b014499d767b5a0c84a6db72938aa2cb8510306a6f03ee2789041af,310405,07/25/2023,,Network Server,MD,Healthcare Provider,Hacking/IT Incident,No
+current,e48e2260df245ba928ff3094244b41ee42408ece28a1bbac95e9284eb068059a,98437,07/24/2023,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,No
+current,cb5930db85bb8aacd7b91cd691602b0d285fecaf624cf0f025f25dd2bfe12429,519,07/22/2023,,Network Server,CA,Healthcare Provider,Hacking/IT Incident,Yes
+current,6d961002552186b4cc1ef47a04f4573bcbf495f7186c9217c696568c8f994457,501,07/21/2023,,Network Server,IL,Healthcare Clearing House,Hacking/IT Incident,No
+current,ea5ad43641bdd9656f7c1832ca1344530e38ffe6c38c804b62b4ec8cd9dc60c8,455676,07/21/2023,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,No
+current,7434e69179b89e5f725343abb6e7a1b83503910f2b96dc771f97d22c25213455,574,07/21/2023,,Network Server,IN,Health Plan,Hacking/IT Incident,No
+current,e55b57ee2fd4dec4013c5321489cb3916566aa83baed5a1234fa59302a82020b,16390,07/21/2023,,Other,PA,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,5bdcfa915a9fc3e4c65cae135895462aed3172b6027b855735987f5845b608b3,51854,07/21/2023,,Network Server,ME,Healthcare Provider,Hacking/IT Incident,No
+current,8f9ca850ead31aa6d0184403c9d4a96ac0887a06b3fccec49bb725780a77faba,1900,07/20/2023,,"Desktop Computer, Electronic Medical Record, Email, Laptop",NC,Healthcare Provider,Hacking/IT Incident,No
+current,51d8e53a06e896d1b6210efcbde6d8e70bf0e51e6bce5dda3b380ee4dc0daaa1,6411,07/18/2023,,Network Server,AZ,Healthcare Provider,Hacking/IT Incident,No
+current,d74528677fdfff51252d9d12b2ad26718772e9bdac481a86bb616b428a136389,2031,07/18/2023,,Network Server,TN,Health Plan,Hacking/IT Incident,Yes
+current,d493ad85dd7b3019aedfbafcbdc28932b2002c560637fb904b2a96b206037e95,750,07/18/2023,,Network Server,OH,Healthcare Provider,Hacking/IT Incident,No
+current,0bea0a5c1d13dc247c7d6dcaf3bf34e9555ef9768e432f71453757c460181fa7,9383,07/18/2023,,Network Server,MI,Healthcare Provider,Hacking/IT Incident,No
+current,efca68c138f5c0244cc64c5e77d7c7669fbc046e027630b3a5311a8787ec71c3,208194,07/14/2023,,Network Server,VA,Healthcare Provider,Hacking/IT Incident,No
+current,47fa04a8291d8e1b5dde0faba5b7381e8e060cb8e8f4ab8644861c7fb5a55e00,1866694,07/14/2023,,Network Server,MN,Business Associate,Hacking/IT Incident,Yes
+current,24cd12e9480f93604785fbf429627162bf9b692fd0246d8d7123f01ccf02fbe2,500,07/14/2023,,Email,FL,Healthcare Provider,Hacking/IT Incident,No
+current,9805ecf6dbf2b1e6091c770312452de683049f5f83030444fc2d5d5fd9b80126,33032,07/14/2023,,Network Server,TX,Health Plan,Hacking/IT Incident,Yes
+current,22ade23a812c510bf4be903b0476d097dc5becd12da204c326e279e2d4d020e5,14264,07/14/2023,,Network Server,NC,Healthcare Provider,Hacking/IT Incident,No
+current,4fb2bcaf190aa97ada7ddf0f4d3d0a940ea88f19c641742bd80896d69cb60e01,10000,07/13/2023,,Paper/Films,TX,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,37eef6505135e5395eacfaff4b09bf1b2baae24ffa30d3929b22bfce1a02005c,500,07/12/2023,,Email,TX,Healthcare Provider,Hacking/IT Incident,No
+current,0998e6d9a6b4606d4b60d1bcb5b89fb68d0ce465ceeb035d21d6897b1bbcc956,7702,07/11/2023,,Network Server,CA,Health Plan,Hacking/IT Incident,Yes
+current,87aa64fcdecc4335ef3c4b35dba107cc8d4c968dd4474c3f33a425ed778b2243,1541,07/11/2023,,Email,NC,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,46fe6e8c36dc69ed3b8b06b7352fdb5aa453d6ac4627c47d76d89d0a85592b5d,17971,07/11/2023,,Network Server,IL,Business Associate,Hacking/IT Incident,Yes
+current,0a1e62161dfacbf1652a2f8613d440100e49d202805ad1d665110976d94d4308,1626,07/10/2023,,Email,AZ,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,acaec74485d2087ee4da401ee96cdb99a5b190724788ab430fee0fd1e75a5a9c,501,07/07/2023,,Network Server,NJ,Healthcare Provider,Hacking/IT Incident,No
+current,2e2d534b5c5fd8eef5b33d1ca16f88e096d10c8d89220ba0b665b517399893b2,209200,07/07/2023,,Network Server,FL,Business Associate,Hacking/IT Incident,Yes
+current,6dd1be316f5edb5842deade9ef65fb0645411e776b24d5203b2b794b7dca7ef3,3560,07/07/2023,,Email,MN,Healthcare Provider,Hacking/IT Incident,No
+current,2856384fc86b9cd187e6310a541b54c46e0956399ed23f4bf377fcf7d8d9c1ef,1004,07/07/2023,,Network Server,NY,Business Associate,Unauthorized Access/Disclosure,Yes
+current,e1d6231cf02fa2289f459179fb091061347217cca81d33f9cf0146fb5614b577,501,07/07/2023,,Network Server,KY,Healthcare Provider,Hacking/IT Incident,No
+current,a361a73d25db1b978a232f20ebef97de8c2cffae9ae6c8f962d655914bdbecf2,501,07/06/2023,,Network Server,PA,Healthcare Provider,Hacking/IT Incident,No
+current,2cfa86fd772cc19f6d2dc8c0d8e34f195150aa9e634329fabd39ea55a62b6755,6700,07/06/2023,,Network Server,FL,Business Associate,Hacking/IT Incident,Yes
+current,7668cf4e38726a7c412ed55d9c8936272b0ccea7df8930d6cc7cc97bdd5fed9a,162500,07/05/2023,,Network Server,AZ,Healthcare Provider,Hacking/IT Incident,No
+current,88a1ea6b5e3c64dfb443fa57fab4660829b2655a127b57bd0db28500e41a68c2,1043,07/03/2023,,Network Server,ID,Healthcare Provider,Hacking/IT Incident,No
+current,f6b6d46e81829d6394135cbcdfd937325deb31fa48d3d217e7584ef95eee40ed,2632,06/30/2023,,Network Server,AZ,Health Plan,Unauthorized Access/Disclosure,No
+current,e764fcf8c3750ab705e94208ab72f0ae2bc1b9340c8845b8fc08b86508f79c29,500,06/30/2023,,Network Server,CA,Healthcare Provider,Hacking/IT Incident,No
+current,8cc1e6d0ab735a7833b7ce6f97e501380a0a808a2bc55c7b6e2dbedb0715f74b,132807,06/30/2023,,Network Server,PA,Business Associate,Unauthorized Access/Disclosure,Yes
+current,3a0d53f30c93dc491e6f856f27470aaedf5ccd5f0bf7602efdcf964974cfd007,40823,06/30/2023,,Network Server,CA,Business Associate,Hacking/IT Incident,Yes
+current,c2d06f8406f564cf1c93641003813da8d5cf1f51b7c9ba494aa8de11b2eee61e,41166,06/30/2023,,Email,KS,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,01750d25f428e2d653893296522ac5958e2cf9e73f00e784ab1e5685cefcac78,24180,06/30/2023,,Network Server,ME,Healthcare Provider,Hacking/IT Incident,No
+current,1d2f0f145d79839346cff4f75a65ff4403f7847f36a06e76e5390f60f08f8d6b,5340,06/30/2023,,Email,IN,Healthcare Provider,Hacking/IT Incident,No
+current,7424413f8dfa205623c79e40d4d823d421d383e1491850994206b5564e617b91,319485,06/29/2023,,Network Server,MD,Business Associate,Hacking/IT Incident,Yes
+current,fec28e1b7ce66a483c1809d8dee301d72d88cdb99f7093abeecc14a5f7157ab1,8331,06/29/2023,,Email,MT,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,76b281805a09d8ac0e0e6291e9b9b56a92475bddee114e08ddaacb581a505871,500,06/27/2023,,Network Server,DE,Healthcare Provider,Hacking/IT Incident,Yes
+current,7b4318c69579586f496bdf3fd47ef3141fa0dacdd517a74977d2ad69b2625e72,1413,06/27/2023,,Email,MN,Healthcare Provider,Hacking/IT Incident,No
+current,5f3c83749fa9c45b180ada51dba21658fe3bc99341e5bc5850ae17987cd2017c,93761,06/23/2023,,Network Server,IL,Healthcare Provider,Hacking/IT Incident,No
+current,0af0cf65ecad43b3e7fc56388a650f3184111c516fa9e804e0084d9370e009b7,500,06/23/2023,,Network Server,PA,Healthcare Provider,Hacking/IT Incident,No
+current,50ea5e8d39b0ec043b5c12ccf80a90f8370d55d3087d6b75ce7b30c42661f7b4,500,06/23/2023,,Network Server,PA,Healthcare Provider,Hacking/IT Incident,No
+current,44c042f6dfb51e24021e0eaac0062c00dc03a4fe29cecb97301b7f2ad59164e7,56556,06/22/2023,,Network Server,CA,Business Associate,Hacking/IT Incident,Yes
+current,1a412134adc50cf0e730367b0ff0e75d4cf666397c55bc7d08d688897179c14a,622,06/22/2023,,Network Server,OK,Health Plan,Hacking/IT Incident,Yes
+current,be85c2a179ed42261b786233781b54bd4412fcab1b78ebc2578fa26153f8f0ba,658,06/22/2023,,Email,MA,Business Associate,Hacking/IT Incident,Yes
+current,ff89de8f64a4a62c4b2717691acdf81560a081ca4235e0d667780c206b432149,1392,06/22/2023,,Network Server,PA,Health Plan,Hacking/IT Incident,No
+current,e965b817ecb880608f310f3e5d7d399f1165a46cb5a0f47cbc92258fdc7e7986,48336,06/21/2023,,Network Server,ND,Healthcare Provider,Hacking/IT Incident,No
+current,633cb7b1675c38d8de5b6868f4e4f286be2915624466e05bea62c6b5750d5bdd,559000,06/21/2023,,Network Server,TN,Healthcare Provider,Hacking/IT Incident,No
+current,eae060396eaf49f9f5e758b733ef42c9d04abc8442a1e61cea348f730c80d0f7,6848,06/20/2023,,Email,AZ,Healthcare Provider,Hacking/IT Incident,No
+current,250a55b7a1d814a978a7fe23feac20170d052ed8c799f5cef9b262b4285130a1,30236,06/20/2023,,Network Server,CA,Healthcare Provider,Hacking/IT Incident,No
+current,5e397f0c914bbba5f159d95a9d5c099341bafc6c6a152ce38da9f451223e54af,1085,06/20/2023,,Email,NY,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,6c21bf1f5d75b79c7ed28b94191e244662276dd64d8b6d3153585e63a015bac0,103547,06/20/2023,,Network Server,OR,Business Associate,Hacking/IT Incident,Yes
+current,7f205bf8384352c5d4aaef2246f0d9a7f2c87f1d349bcc08616bb9e45f2a27e2,5000,06/20/2023,,Network Server,PA,Healthcare Provider,Hacking/IT Incident,No
+current,ba1e8144e6ee09fb5ff6c0a45539fec8693dae7e06c0a7fa9475a69cf13a166b,5000,06/20/2023,,Network Server,PA,Healthcare Provider,Hacking/IT Incident,No
+current,ece5d704cc58b8cb3af993e276a2e0a3d9a189cf74187f9450a351ef54cb619f,5000,06/20/2023,,Network Server,PA,Healthcare Provider,Hacking/IT Incident,No
+current,35bd1f41b68452732f7f2f1049f434eef92e8d8edd466981a91c71d865f972dc,10000,06/20/2023,,Network Server,PA,,Hacking/IT Incident,No
+current,4801a5cb39693f46daae5343da25241d03b11f345d4fd5731908198732dfe643,34691,06/19/2023,,Network Server,GA,Healthcare Provider,Hacking/IT Incident,No
+current,9ada0a8e6ca4b92dc2fd8cc4b200df346743bdb79f00f0c31097ec27e83afed5,3679,06/16/2023,,Email,NC,Healthcare Provider,Hacking/IT Incident,No
+current,ff31fa541d70f5612e57381a0be9307971b66f2d43733a33b44bb5ae1babee26,2656,06/16/2023,,Email,AZ,Healthcare Provider,Hacking/IT Incident,No
+current,e09b108ba258710502877e4d75193f5fa54ea070d37fd5c401228b80d07e3dc8,12317,06/16/2023,,Network Server,MA,Healthcare Provider,Hacking/IT Incident,No
+current,33a5dda87ae14f3360359c87bc48214058160aba17982cfbcf568136880da99e,5973,06/15/2023,,Network Server,TX,Health Plan,Hacking/IT Incident,No
+current,7779c59a2e447d60c3a539a9b8be5bf300868a58d208ca6d14440bb42292294c,181764,06/12/2023,,Network Server,PA,Healthcare Provider,Hacking/IT Incident,No
+current,5397219b3959904b43d78722fe66f38a95449966abc0a352632a2df60ebb7046,2501,06/12/2023,,Network Server,ID,Health Plan,Unauthorized Access/Disclosure,Yes
+current,3a7cc42cab4a7dc9f9d1492d8413d10a415b5bfcddc8dc43eb58d7f6f27d2798,33839,06/11/2023,,Network Server,GA,Healthcare Provider,Hacking/IT Incident,No
+current,518056817f66f0425f8d560c764e514a0de8d13c024b8b20f99b0da2633455d2,1105,06/11/2023,,Paper/Films,AL,Business Associate,Unauthorized Access/Disclosure,Yes
+current,af8d0cf37cdc8965cad0c3880304f024a3c0a7c9f20a020d20b27b95efcc19e5,500,06/09/2023,,Network Server,UT,Healthcare Provider,Hacking/IT Incident,No
+current,88c1d77fca7614cb2b5cb7ded1426ed30f62ea1dda9be2183770c98352f05275,1048,06/08/2023,,Network Server,MN,Health Plan,Hacking/IT Incident,No
+current,4093931a008da4f77c30f754df0030d466d8c59e8bad6042e13d1ae195cc1ecb,489830,06/08/2023,,Network Server,TN,Business Associate,Hacking/IT Incident,Yes
+current,3a132c9b59525ba83643fc7bc4e82e97455f7b3b75099272c48160e63ae7b347,9412,06/07/2023,,Network Server,OH,Business Associate,Hacking/IT Incident,Yes
+current,876093ab61568d3e7bab382af7156d5d2c2032df42099832f94796084a0aaca3,5800,06/06/2023,,Paper/Films,UT,Health Plan,Unauthorized Access/Disclosure,Yes
+current,78752d9404b5c5c06b7dd0773a6bab9001d8e8e664c383d5c3ddfbd6ac5d31e8,1415,06/06/2023,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,Yes
+current,bf215e69e1dd6b696d9c79227c4504529847028d155917d8ed631d07f1667e40,17191,06/06/2023,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,Yes
+current,40d97b5f33c04a0f0af6df40c542a4ef7186822e098e7d1c978a3f0328d82cbe,600,06/06/2023,,"Other, Paper/Films",TX,Healthcare Provider,Improper Disposal,No
+current,a588dd91620a2dead9b88cee27fffec260beb0f8275c038f648f27147eb34724,2470000,06/05/2023,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,93d6ba1c1a1ba7ce19f6a1ca317ed0dc69262ddfdc738353cf3a1b7a6178379e,501,06/04/2023,,Network Server,NJ,Healthcare Provider,Hacking/IT Incident,No
+current,d6b06bacfbd98ca4ce4cc6bbd66138cca0903c18a3fe80f2a50139e5303a18d5,15512,06/03/2023,,Network Server,MI,Healthcare Provider,Hacking/IT Incident,No
+current,b708ad1c6d9afa41d61502bead2f24c246a9494130b7d55250da161635287924,501,06/02/2023,,Network Server,FL,Business Associate,Hacking/IT Incident,Yes
+current,92fc31fcf613808ae227cf62662087111052629f19d97d2396ad7e730e9c8a36,501,06/02/2023,,Network Server,MS,Healthcare Provider,Hacking/IT Incident,No
+current,ade04a39ead93556f4116bfc75fca033e83c76350af6839d77f597338746e19c,10059,06/02/2023,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,58756d4140536b6ef88b058770ac4dc4f8888622bae2af2e611efa3635a7a902,684,06/02/2023,,Network Server,MD,Health Plan,Hacking/IT Incident,Yes
+current,81c4f4b7edebad9e2f5d97bc360d1edfd35dcf3efccd0b32ce56000c7a083997,31248,06/02/2023,,Network Server,MA,Business Associate,Hacking/IT Incident,Yes
+current,606a69af4c7f87a866d042eb304ca5a74914a5d5a25648d3c208347da4710cc0,1206,06/02/2023,,Network Server,MN,Business Associate,Hacking/IT Incident,Yes
+current,e9e8a0b75a1269d2339ddf51189a0505facdabedaefe1ba5758875523ff0859b,20865,06/02/2023,,Network Server,IA,Healthcare Provider,Hacking/IT Incident,No
+current,551a363640cc3eccb9f468db0297180e438e5d0990e2625401f8151d4737522f,124862,06/02/2023,,Network Server,CA,Healthcare Provider,Hacking/IT Incident,No
+current,09e70c6a11041af4c77a9db31465f54a359409894f286fe515fe6b6d331db281,33000,06/01/2023,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,e44469b10daed0aa5be88b382a848d61e6cb6805907c1922b3d23daff5297a61,7000,06/01/2023,,Electronic Medical Record,NC,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,8e8d2dce6b51c70fac3ac47551dc914fca55655332ce6292efb18e6dd1585dcd,24382,05/31/2023,,Network Server,CA,Business Associate,Hacking/IT Incident,Yes
+current,a2ba97fafdaea88c995a487c97a667464155d5ac44da270e7fc49e48d207ffdc,3690,05/31/2023,,Network Server,TX,Health Plan,Hacking/IT Incident,No
+current,9d9ba26ab126933e870cb5b8743b56a510b83f525e4a7f2d45b346e573fa6764,3690,05/30/2023,,Network Server,TX,Health Plan,Hacking/IT Incident,No
+current,35e859c24e43c999ea67ba3ccad7abecd5e380869c916431adbfa5d02470e098,996,05/26/2023,,Network Server,MA,Business Associate,Hacking/IT Incident,Yes
+current,35e859c24e43c999ea67ba3ccad7abecd5e380869c916431adbfa5d02470e098,1389,05/26/2023,,Network Server,MA,Business Associate,Hacking/IT Incident,Yes
+current,35e859c24e43c999ea67ba3ccad7abecd5e380869c916431adbfa5d02470e098,1191,05/26/2023,,Network Server,MA,Business Associate,Hacking/IT Incident,Yes
+current,35e859c24e43c999ea67ba3ccad7abecd5e380869c916431adbfa5d02470e098,1518,05/26/2023,,Network Server,MA,Business Associate,Hacking/IT Incident,Yes
+current,35e859c24e43c999ea67ba3ccad7abecd5e380869c916431adbfa5d02470e098,524,05/26/2023,,Network Server,MA,Business Associate,Hacking/IT Incident,Yes
+current,35e859c24e43c999ea67ba3ccad7abecd5e380869c916431adbfa5d02470e098,507,05/26/2023,,Network Server,MA,Business Associate,Hacking/IT Incident,Yes
+current,35e859c24e43c999ea67ba3ccad7abecd5e380869c916431adbfa5d02470e098,983,05/26/2023,,Network Server,MA,Business Associate,Hacking/IT Incident,Yes
+current,86685f61ad1dde1b114ab8ef719514c0538f8846c7349152f07df3ee2a848409,319500,05/26/2023,,Network Server,PA,Business Associate,Hacking/IT Incident,Yes
+current,35e859c24e43c999ea67ba3ccad7abecd5e380869c916431adbfa5d02470e098,803,05/26/2023,,Network Server,MA,Business Associate,Hacking/IT Incident,Yes
+current,554c3293356f76e6d9f7af976480f5b52d265bce7d8ea2c9e545f12402b2b183,500,05/26/2023,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,35e859c24e43c999ea67ba3ccad7abecd5e380869c916431adbfa5d02470e098,1147,05/26/2023,,Network Server,MA,Business Associate,Hacking/IT Incident,Yes
+current,35e859c24e43c999ea67ba3ccad7abecd5e380869c916431adbfa5d02470e098,537,05/26/2023,,Network Server,MA,Business Associate,Hacking/IT Incident,Yes
+current,35e859c24e43c999ea67ba3ccad7abecd5e380869c916431adbfa5d02470e098,796,05/26/2023,,Network Server,MA,Business Associate,Hacking/IT Incident,Yes
+current,35e859c24e43c999ea67ba3ccad7abecd5e380869c916431adbfa5d02470e098,1097,05/26/2023,,Network Server,MA,Business Associate,Hacking/IT Incident,Yes
+current,35e859c24e43c999ea67ba3ccad7abecd5e380869c916431adbfa5d02470e098,916,05/26/2023,,Network Server,MA,Business Associate,Hacking/IT Incident,Yes
+current,ecdcfe190e73a38bcd0c4aea39f9c59358363f6c5413be0775998d549abfcd83,900,05/26/2023,,Email,IL,Healthcare Provider,Hacking/IT Incident,No
+current,549f53090a9b105cff1b74df0bd8a54f15f570c7af4783de4fdf7fa56dfcb6f3,8861076,05/26/2023,,Network Server,GA,Business Associate,Hacking/IT Incident,Yes
+current,3de7a4c39eef05cf3b39c593680652aa1c991aa5388cd257d713d55a93c97cde,2193,05/26/2023,,Email,NJ,Healthcare Provider,Hacking/IT Incident,No
+current,66c8a8d1c5785793bdde91437bd9d8e5b0ff9e42287a5b7553dd5a618523c4c5,5062,05/26/2023,,Network Server,CT,Healthcare Provider,Hacking/IT Incident,No
+current,3f7a2176e20e7be425eadb6cf0230d11e4ff1962adb076709ea1048e172f1e4e,1784,05/26/2023,,Network Server,PA,Healthcare Provider,Hacking/IT Incident,No
+current,8c413cce0824ba924a2ec9080d2aecb45b48c3a1fdfa55c4e659bdee14b2e1c9,224486,05/25/2023,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,1c3c31d248ac300715e3c647de7297ce9110e27b053f19b8e000a27e35b3dc48,3549,05/25/2023,,Network Server,AK,Health Plan,Hacking/IT Incident,No
+current,836fd4c37fb7708f63e4a2299fc2dccc50a6783e92d65f501f90b9c6cc2187f9,6270,05/25/2023,,Email,CA,Healthcare Provider,Hacking/IT Incident,No
+current,2bcbe2f14f64457e16f14e5fb0c743ad97b480dcadf01c37c3dc7d963fffc11f,805,05/24/2023,,Email,NY,Healthcare Provider,Hacking/IT Incident,No
+current,eff734357cb495b693b77e7ee0f075fc8c6a84c29ee03366f12a2fc96eab7acd,3833,05/24/2023,,Network Server,CA,Healthcare Provider,Hacking/IT Incident,No
+current,0f04d2e740f3aec1e2c0442dd5c34785ab60a5b10710c7cfd10338e6475a9c18,2550922,05/24/2023,,Network Server,MA,Health Plan,Hacking/IT Incident,No
+current,f97a994df8d9e1891d16cccef8b8055286c79f10dce2c9ac84d8c66d4af14d22,14453,05/24/2023,,Network Server,OH,Business Associate,Hacking/IT Incident,Yes
+current,4b4843e8672c92c9c224492c55155fb130069c91e13bb04ae2f7c21c20703e26,67897,05/24/2023,,"Electronic Medical Record, Network Server",IA,Healthcare Provider,Hacking/IT Incident,No
+current,dd58f32f9356784061a495dc1ebff1336beee2b6e61f5f5d704cd15ed59918e8,69765,05/24/2023,,Network Server,IL,Healthcare Provider,Hacking/IT Incident,No
+current,a42d9ef31129509e5cb619593b586a619dc6a0b7a16f9a48eab67e7eb09abd37,4135,05/23/2023,,Email,WI,Healthcare Provider,Hacking/IT Incident,No
+current,a0016e6e9a54fc8405cdaa269dfe7d8ee75eca66350d6002277f230c13a75859,4209,05/22/2023,,Network Server,NJ,Business Associate,Hacking/IT Incident,Yes
+current,62edb525ed84411dc8b5c13bac3b6d78bc14cc71d61879b4b4591db23a1eb708,19032,05/19/2023,,Network Server,NH,Healthcare Provider,Hacking/IT Incident,No
+current,0dad46957651c9d3bbb8c17ebb2f34fc5231f7548faf80b22e287f9886edf7c3,1474,05/19/2023,,Network Server,OH,Health Plan,Hacking/IT Incident,No
+current,2c2f77a09c7f9ef90dedb268863d534d06517d54be2b37626ced64e0b60fa136,500,05/19/2023,,Network Server,TN,Healthcare Provider,Hacking/IT Incident,No
+current,6ef408c8561f5a1d2288c2d2a180d02f1227c074b8161dd8d1af712fd7cc7d92,9182,05/18/2023,,Network Server,CA,Healthcare Provider,Hacking/IT Incident,No
+current,9c9c59cb648141b00e896e3def1a95af7caccdffc361b24a3b559bbf2d955d26,736,05/17/2023,,Electronic Medical Record,MO,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,9d0eaf8b460cb04717f2869c1d54c798cbf3ca6307deeb34602e764d1307a9d4,28003,05/17/2023,,Network Server,IA,Healthcare Provider,Hacking/IT Incident,No
+current,a6633c14f800c3f3ec07d9afd17ad5f71ba79a0129046a669132ed55d50bae49,552,05/16/2023,,"Electronic Medical Record, Other",NJ,Health Plan,Unauthorized Access/Disclosure,No
+current,4dd0e119a6c4be1e8d56d65624ac9f9955689373a6323b9e767c3996ae7ea16c,686,05/16/2023,,Email,OH,Health Plan,Unauthorized Access/Disclosure,No
+current,d92a5f4fd8fe086778bc9211eb22442b6d6bde195f9495f8fcd7a2ed1285bf48,500,05/16/2023,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,32c6197e977136b201c86ae16be98ee0d9070756478269ecfe827072546268db,9197,05/15/2023,,Network Server,CA,Healthcare Provider,Hacking/IT Incident,No
+current,3cdecaf62e23cdd74c2c54715ed103e9e3b8496eaec928c3826c31e35be7d6ab,248359,05/15/2023,,Network Server,PA,Healthcare Provider,Hacking/IT Incident,No
+current,969324fb53dbd9dfe71b1e111572b105bff5eb817e4e37e2f9964c48309c6531,345523,05/13/2023,,Network Server,VA,Business Associate,Hacking/IT Incident,Yes
+current,f5d7e0d4e8aedc0c32fde36970d83ffece2ac87a41452e6c82d60a5847d7c148,5815591,05/12/2023,,Network Server,KY,Healthcare Provider,Hacking/IT Incident,No
+current,a5be2341301a62ad49d9bcef7469b7c8a63af427dcc1e74563d05f21f2edfc5a,528,05/12/2023,,Network Server,MI,Healthcare Provider,Hacking/IT Incident,No
+current,73ec2e4b72f38fef9bafd191d452e5304502fc486c15ee05820290afe8edaa08,50839,05/12/2023,,Network Server,IL,Health Plan,Hacking/IT Incident,No
+current,bcc429e2fe63553d0cd770d35530df6bebef38d73ffa71e48c26bf852cbf1dcb,1116,05/12/2023,,Email,CT,Health Plan,Unauthorized Access/Disclosure,No
+current,8b8ecc03f7105d724e405ff676a384c8a00c75e52c65b7f2e725be072d84656a,12759,05/11/2023,,Electronic Medical Record,NY,Healthcare Provider,Unauthorized Access/Disclosure,Yes
+current,9529ec4bf67205d44616788e57daacd61c65a19ab8832a2d5ab538e9e4fccc25,5242,05/10/2023,,Network Server,KS,Business Associate,Hacking/IT Incident,Yes
+current,94ed2bea263d481f7851b2b2cdcb74896f32f3df2dc0505b56a825b7987d1893,103974,05/10/2023,,Network Server,UT,Healthcare Provider,Hacking/IT Incident,No
+current,6bf28d1484a3f1496a8832bfb41a475f486f2ca6887a0d32dff5533a8b56bdf9,1034,05/09/2023,,Desktop Computer,AZ,Healthcare Provider,Theft,No
+current,62a22350c1a14f1111e190c99e3863f9cbf73dd70810f48939dd288861e7050d,25527,05/06/2023,,"Desktop Computer, Laptop, Network Server",TX,Healthcare Provider,Hacking/IT Incident,No
+current,bcc429e2fe63553d0cd770d35530df6bebef38d73ffa71e48c26bf852cbf1dcb,1971,05/05/2023,,Network Server,CT,Health Plan,Unauthorized Access/Disclosure,No
+current,bcc429e2fe63553d0cd770d35530df6bebef38d73ffa71e48c26bf852cbf1dcb,26561,05/05/2023,,Network Server,CT,Health Plan,Hacking/IT Incident,No
+current,371d5cd58d10f47a39df510685275188cba538953e5ef2e67dd500190d05f54f,965,05/05/2023,,Network Server,IN,Health Plan,Hacking/IT Incident,No
+current,f05f31abd3adaf0639151d66aff3f6d8b1103e8177d9391a9a907270fb81ae7c,8725,05/05/2023,,Network Server,OK,Healthcare Provider,Hacking/IT Incident,No
+current,8bcf1f075d2620a2330fefc81e1748e8facaccf8688f0c8adbd6776865378f33,49000,05/04/2023,,Other,NM,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,616feafe7c5bb2a4575caee24a5d86f18123339ec0ad512bfef9e7d2e412eac8,5259,05/03/2023,,Network Server,AR,Healthcare Provider,Hacking/IT Incident,No
+current,a6592f2666e0de1a269459d0bfe4726199013498ce0fb432d29075ff40ffb370,10256,05/02/2023,,Paper/Films,IN,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,45a7351982eed6398525043278a2b60c0adff4e7bfb672fce4b0fd44dbd581fc,2563,05/02/2023,,Network Server,WV,Healthcare Provider,Hacking/IT Incident,Yes
+current,2ecd7502dedddc8bb58b53033b614b7a54f2a30204a8234d6666acf6803a72c6,56816,05/01/2023,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,aced7ed062a62d51c0a0e592e75ad0b1a7b87f2ea64f79dc0c1e1141f77f90c9,5727,05/01/2023,,Network Server,NJ,Healthcare Provider,Hacking/IT Incident,No
+current,accf33f35f1e0e9e1ceda3da768e2bf2d2465e762b51efcb54f28427cd56ae7b,7200,04/28/2023,,Email,WA,Healthcare Provider,Hacking/IT Incident,No
+current,3882498e48fa5215d5a2f83eed4e737d7c362e82a6703e284f45b0ad47ef6556,9349,04/28/2023,,Network Server,FL,Business Associate,Hacking/IT Incident,Yes
+current,42dee5d51f15ef170dfe795d091df9d19a51a74d5a2e21cd34afa9e46d40fa8b,5272,04/28/2023,,Email,VA,Healthcare Provider,Hacking/IT Incident,No
+current,4c06cfa1fb1e6e1f57acf0aba73a3f277bf69a84c09ddf916fd14faaa7c3937e,1042,04/28/2023,,Network Server,MN,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,6d67f97914d2b808f544b58b39040417777c551de13ccc6549da00d3e42154b8,8453,04/27/2023,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,25498c2d942ff7f8eaea33ebce234fbd9c4c5d7b9141d44e17f60ac19c180835,6288,04/27/2023,,Email,NY,Healthcare Provider,Hacking/IT Incident,No
+current,a230639b3f5c1f55e57860d7f7c863c70b26c100e393d89f6b98956d63050ec5,676,04/26/2023,,Email,CA,Healthcare Provider,Hacking/IT Incident,No
+current,1158de564aa89bd7c49a21cedd4c3de72f2f6f0b7060c93a6772ea6b4ccf23ed,4277,04/25/2023,,Network Server,FL,Business Associate,Unauthorized Access/Disclosure,Yes
+current,653e059d670ce7bf279d846f36f8f03a6793911318d975ac5c2c7d20a0af6ada,17000,04/25/2023,,Email,IL,Healthcare Provider,Hacking/IT Incident,No
+current,5a344484ac6c254a67122cc02b8c5718f28e55741d93a0826ace74155a47933f,1270,04/24/2023,,Network Server,PA,Health Plan,Hacking/IT Incident,No
+current,83b474dac1213b162dc903d1022991eff35301d8a6aa10203d012d364d61e3ff,748678,04/22/2023,,Email,AL,Healthcare Provider,Hacking/IT Incident,No
+current,e65a38a051884d14601e834c25c67d67e5c066172e7892254a07aef74f799e69,15045,04/21/2023,,Network Server,NC,Healthcare Provider,Hacking/IT Incident,No
+current,039bba8b2f0984b389d03d0600bf3a7c206866f588a9518255420310de082de9,10000,04/19/2023,,Network Server,,Healthcare Provider,Hacking/IT Incident,No
+current,2dcdcc57ac2f2567a5ffb4271d7d4c413ab55bacc0f42701f27cf81006108d75,6737,04/19/2023,,Network Server,OH,Healthcare Provider,Hacking/IT Incident,No
+current,1a00a520460fbfa188d299e2edf45c170812cf693164340311d072f955794b67,535,04/18/2023,,Paper/Films,NY,Health Plan,Unauthorized Access/Disclosure,No
+current,4318ac9dd0e7a5c859e490d3b38cf928ff8c0beba18ec5ffafbc70ce93d2555c,4047,04/14/2023,,Email,KY,Healthcare Provider,Hacking/IT Incident,No
+current,614dff4ce65ef2176722d9661eef6fd3082ba7f4ffb77a12d0ba4812c786528f,58374,04/14/2023,,Network Server,CA,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,1e2a1c08dfd2c110c8b3fedd88932c4859cf043f2fa32acd994ec1c156c406af,501,04/14/2023,,Desktop Computer,TX,Healthcare Provider,Improper Disposal,No
+current,f4c5b62a99de35b681e1d8f0a47d40a571ed5d430e0f034e68614955c38f048d,37965,04/14/2023,,Email,PA,Health Plan,Hacking/IT Incident,No
+current,2bf04046b395ef77238eeef0df4f9fda20836778e41a8e279d218f8507631c85,3689,04/14/2023,,Network Server,OH,Healthcare Provider,Hacking/IT Incident,Yes
+current,5fd5601c0c3eb7bca912cd0feda095e9e4e40251c6f45e06ffa3cf2a742bb72c,3037303,04/13/2023,,Network Server,FL,Business Associate,Hacking/IT Incident,Yes
+current,efcfe8d8b2ab5a64076c12e14bd1292d49989d0c0bafb1b3754cb3b65d101343,501,04/12/2023,,Network Server,IN,Healthcare Provider,Hacking/IT Incident,No
+current,a4258145a34ce7b3cf311e965c19a6c7fc362925750dc22bcd8a72114468c82b,35766,04/10/2023,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,No
+current,4262400f8beab1d8cea0f11dfe055889cf4561e6c13f78af0b3f9343809565ac,51787,04/10/2023,,Network Server,AK,Healthcare Provider,Hacking/IT Incident,No
+current,9e9347ba58fcd1805f852384308ee0ac93489af7fa13f8552bf86e607462ed14,20815,04/10/2023,,Network Server,IA,Health Plan,Hacking/IT Incident,Yes
+current,a2cdf7c50ff80d1648fb0bd348549d75c65f531a231dff56075424c794054a64,15316,04/07/2023,,Email,CA,Healthcare Provider,Hacking/IT Incident,No
+current,712b0b06a9b4e463302fd4fe5decfff72fc3f7eebf9b8a04651ddd09f1f03ef7,845,04/07/2023,,Network Server,NE,Healthcare Provider,Hacking/IT Incident,No
+current,8297c8f7a7b7d0db8d8e89963909154e1bb8d9d68101a9a84a6a56ec9294f2b2,15246,04/06/2023,,Paper/Films,ID,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,db7710d362642d46cab13efbd81297f210e03667c6468a2612836f1c2fbe6b08,13240,04/05/2023,,Email,PA,Health Plan,Hacking/IT Incident,No
+current,2df18e56bcc8d90422b94987aa75e187b3769471558ecaf7a66870323238f8f7,42020,04/04/2023,,"Network Server, Other",IL,Business Associate,Hacking/IT Incident,Yes
+current,6beadd7edcf59776366acc76242dae53c499bd02eeb313381021d5b22e373077,4498,04/04/2023,,Email,KY,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,28af0674888adbdee26954ddb1eb8c07db73181d60edd5608123bcae9042eb5c,842,04/04/2023,,Network Server,WI,Healthcare Provider,Hacking/IT Incident,No
+current,7e69897670703cbaa25a0d8714bbf619d54b061b69f2c611ec15a27986a604ca,600,04/03/2023,,"Electronic Medical Record, Paper/Films",UT,Healthcare Provider,Theft,No
+current,4aa9c7aa1a3bd8d0bfde90354bf62a5f244e863e9e48ceaf5a7f08de0afaf951,15996,04/01/2023,,Network Server,ND,Healthcare Provider,Hacking/IT Incident,No
+current,8ecac855a81771fd929054735720d9e0d9ad8071d04697f35f5097e8b7d49f3d,20376,03/31/2023,,Network Server,FL,Healthcare Provider,Hacking/IT Incident,No
+current,d051425986c82efe525db13efebd8767d8e5ba5763f92f4bca5e38031418674f,108584,03/31/2023,,Network Server,NY,Business Associate,Unauthorized Access/Disclosure,Yes
+current,2df18e56bcc8d90422b94987aa75e187b3769471558ecaf7a66870323238f8f7,19567,03/30/2023,,Network Server,IL,Healthcare Provider,Hacking/IT Incident,No
+current,645e3e4e33986b9b00342c046dd61954bbe34c259f8f2dd8d22aafa666e17c4a,40290,03/29/2023,,Email,PA,Business Associate,Hacking/IT Incident,Yes
+current,4054205200a82f2cc9b02a1aa71aee7f6e5534df39e86fde2b6a02993b34efd7,8571,03/27/2023,,Network Server,PA,Business Associate,Hacking/IT Incident,Yes
+current,85c0d81de0751470cc1cccb06794d1dd888593bc2eb5d9a71b5d646fb7b2b31d,7457,03/24/2023,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,No
+current,b415b1fdf72c69509eeff3332cc0d5dcde051c29b946003a7d1a194f755d7e1d,1457,03/24/2023,,Network Server,NJ,Healthcare Provider,Hacking/IT Incident,No
+current,44341ff23542f33e349d7b0203efb928bbb22866eabbb302291ef57177fa9f9b,722,03/24/2023,,Email,PA,Healthcare Provider,Hacking/IT Incident,No
+current,dcf06131756529e7f79f61faf7cdc2c7f9b51e5e6651d37803f9a77e0d992b21,26591,03/24/2023,,Network Server,MD,Healthcare Provider,Hacking/IT Incident,No
+current,1573a10b310910487228d3e64684b48dea3cf5110606c0326409c45b7db0b17a,1557,03/22/2023,,Email,KS,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,05dc76ec581fc674ada3dbd31377dc7ee4401a44cc4704788a1fc313223be661,3851,03/22/2023,,Network Server,NY,Business Associate,Hacking/IT Incident,Yes
+current,8224261be5f6ba2fa6e6579b02bc7733ba988722b20e74d2d68035a03e160869,795,03/22/2023,,Network Server,NY,Business Associate,Hacking/IT Incident,Yes
+current,02d715b52b7e814eb6b7f8fb4ad39ed0bab451191a4034fcd86cd35232201fbf,922,03/22/2023,,Network Server,NY,Business Associate,Hacking/IT Incident,Yes
+current,5486fdc46555d4839b56e04f211f366baa6d8db197d20659b360594dec298b35,2204,03/22/2023,,Network Server,NY,Business Associate,Hacking/IT Incident,Yes
+current,3eb6462e62cf9585ffaeae0d2cac1a83d43151258f2ef7f3f3b7a6b1df69ad9b,563,03/22/2023,,Network Server,NY,Business Associate,Hacking/IT Incident,Yes
+current,5812ea0beb51443aa1c64da1c0eee0a088575b4981e75e8b481a18e36260334e,970,03/22/2023,,Network Server,NY,Business Associate,Hacking/IT Incident,Yes
+current,5156f920306d81a4b24b2ba6f952bb082eeae89fa3d8bcf1fc7ee8082051f190,1126,03/22/2023,,Network Server,NY,Business Associate,Hacking/IT Incident,Yes
+current,6a3fa721fe3cc95688332adf5e67cbe8b685ce5d9c872f609721fb5881de218b,1119,03/22/2023,,Network Server,NY,Business Associate,Hacking/IT Incident,Yes
+current,2d86d151dab5d4a933d03455078f6295aaada0f78c917813980b799e12a455da,653,03/22/2023,,Network Server,NY,Business Associate,Hacking/IT Incident,Yes
+current,3f23ed941499e545fce4876254f8b8cfd0613b553843c41421e6f43c4cb4c2fa,745,03/22/2023,,Network Server,NY,Business Associate,Hacking/IT Incident,Yes
+current,e512b608148838a6c9289de6e0779f50dd894f8797e3e424649a054a941a031c,1345,03/22/2023,,Network Server,NY,Business Associate,Hacking/IT Incident,Yes
+current,3dec22d46b6373f070619e0ce671a75432a375165de39edf869485a03c0bbae1,1052,03/22/2023,,Network Server,NY,Business Associate,Hacking/IT Incident,Yes
+current,fb8cc93316cc91dc713ac308972b2daf3d131832db1cebda84ad4174ae7bfd86,776,03/21/2023,,Network Server,NY,Business Associate,Hacking/IT Incident,Yes
+current,1b6ca7c6a5b5ab83c730b327f04c358965908534b1f1cfbdd57372099cc474fd,3851,03/21/2023,,Network Server,NY,Business Associate,Hacking/IT Incident,Yes
+current,d13310bdd2973edab1e67b8e833fe1d321f20135de5e25d16d1ec3878839b2f3,500,03/20/2023,,Email,TX,Healthcare Provider,Hacking/IT Incident,No
+current,b9c35076b81c6ed47c522eb210574aa2523dc1b21f85ec47c5431439fca8d6e5,54396,03/20/2023,,Network Server,NY,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,75e678bf57030eadd35266d515efdeeecad88ee2ec3ea1acf209abac916b1133,1161,03/20/2023,,Network Server,OR,Healthcare Provider,Hacking/IT Incident,No
+current,1844774b4e2061c6a743089f3604a517631d49b83152ca9a27af1c4b91227150,2636,03/17/2023,,Network Server,IN,Healthcare Provider,Hacking/IT Incident,No
+current,013b27411ba2548b569e1142d4913fd33d83f39d0f90d0a81e5860842b1bad1c,3013,03/17/2023,,Laptop,OK,Healthcare Provider,Theft,No
+current,3677533c569a629b2cdcf0404c417a099396347177af87546c2ff6fb90fccdc7,11894,03/17/2023,,Email,CA,Health Plan,Hacking/IT Incident,No
+current,a9335a8639c5dff97b17dcae87c56f3e7c16b165f3696410df8634d14be7d29e,8517,03/17/2023,,Network Server,KY,Healthcare Provider,Hacking/IT Incident,Yes
+current,67b37c20247b4e83b0d1f7980fb6b08fbab6b7851102dc33101592d0c762e8a7,962884,03/16/2023,,Network Server,TN,Business Associate,Hacking/IT Incident,Yes
+current,366ddd6416897817cb32aab81a74ad482fbbf8fab1717016e3a4efb7f8280099,23000,03/16/2023,,"Network Server, Other",CA,Healthcare Provider,Unauthorized Access/Disclosure,Yes
+current,eab5648a4278a37bf2b03f37a31d882fb8ee002a5c4c97705617948b201ea68c,757,03/15/2023,,Email,MA,Healthcare Provider,Hacking/IT Incident,No
+current,f414143c71469714b5d598dfb64b73b3688104641ca33cee53deb9005c0882c6,82466,03/15/2023,,Network Server,OH,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,db7bf732f8b0af0800eaaa27aad2ca00153bddc3361231fcaf12576bc0d7c345,6460,03/14/2023,,Paper/Films,CA,Health Plan,Unauthorized Access/Disclosure,Yes
+current,24eaf1d916ac6112f7abfaf9974412820f2d49c1d5d07de179539a802a8ea2ff,1980,03/14/2023,,Email,IL,Healthcare Provider,Hacking/IT Incident,No
+current,75f9ced7b18648dfd0eb9f8b902371b9e7b6809990bfb45c4f1c1fb4de195d1f,82450,03/14/2023,,Network Server,AL,Healthcare Provider,Hacking/IT Incident,No
+current,0fc084f58e0a11be374fbe665af0ec3f1796cccae52913732ea611b49fbeb1db,3560,03/13/2023,,Email,CA,Healthcare Provider,Hacking/IT Incident,Yes
+current,6587bb15714c84f978ffa575c11e1e749ba5b958e27fcb18e49bb40deedd985c,105094,03/13/2023,,Network Server,WI,Healthcare Provider,Hacking/IT Incident,No
+current,10e99bca23f4684656ff237b2b7fedc15df169899c463a25058e990b615b0b0c,997097,03/10/2023,,Network Server,MA,Healthcare Provider,Hacking/IT Incident,No
+current,016d3865105509e1d63f988b9441d1ac7bb4b068ec904e714f0315b75467df27,94132,03/10/2023,,Network Server,FL,Healthcare Provider,Hacking/IT Incident,No
+current,b53c5f719182cfc0b76c8ef98633e8426c46e1f712c1c929f2e6da2c01fba096,1282,03/10/2023,,Network Server,GA,Healthcare Provider,Hacking/IT Incident,Yes
+current,b64f07cc34856d25750aea36ea63051946866847d9fb5a1fc7307fbafee4f4c7,857,03/10/2023,,Paper/Films,AZ,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,97296a5af7cc22cfebb561020d9b6bb7fd27dede41f3ef1aabdfe8272b309d7e,3117,03/10/2023,,Electronic Medical Record,IN,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,d2f2d873fe3bedee47c52df520017ad9dbf0ece54166fd67af4883a10807eb02,516,03/08/2023,,Email,OH,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,638c54614e1bc4b4546048f93334bb70016518de047ede4f4c39adfd6d612e3c,1378,03/08/2023,,Network Server,OH,Health Plan,Hacking/IT Incident,No
+current,9a21a40934e45f6ec0e6afb64a3912642341bebddd2ebff30b35c2af7f66717a,37095,03/07/2023,,Network Server,NY,Business Associate,Hacking/IT Incident,Yes
+current,084ff25674231daaa246b5a01c2bf7ba86611889151aebd8590c44e3728b2a4a,45350,03/06/2023,,Email,MI,Business Associate,Hacking/IT Incident,Yes
+current,6722a67a5ce84c9ad342eab2c9b48be3fbede6f9f5a6c8a40bb5a79d582a74c1,745,03/06/2023,,Electronic Medical Record,NY,Healthcare Provider,Unauthorized Access/Disclosure,Yes
+current,6998793e09d9a9c1bf7f55fd6b1a406c448918a86911d788f05be1acc84b11dd,15298,03/06/2023,,Network Server,MI,Healthcare Provider,Hacking/IT Incident,No
+current,52ba2c65a654186b483e887f973f092d68e453e52b3572a9d36b32e3acb5cd30,35068,03/03/2023,,Network Server,CO,Health Plan,Hacking/IT Incident,No
+current,8bbbbccf2ed3ce3b7aa93b2c684b3f7a65c9538de42e685a4e3378472af7941f,10161,03/01/2023,,Network Server,MA,Healthcare Provider,Hacking/IT Incident,No
+current,5577656d45a13adffaaba06aebaf40252da25cefe235110f9782dee18cfe9954,3179835,03/01/2023,,Network Server,DE,Business Associate,Unauthorized Access/Disclosure,Yes
+current,c30e76307308a372f7423e9d582d1fac4985bf7c64b29497757655624c8725f6,600,03/01/2023,,Network Server,TX,Business Associate,Hacking/IT Incident,Yes
+current,21cb251ec484ae766c803322b1d2dce52dd47456faf860bfe47510af6c9df909,78984,02/28/2023,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,No
+current,410e36085d85e2155dc9e76cd6c701114172eab4677dbaadbd212551423bad46,824,02/28/2023,,Network Server,CA,Health Plan,Hacking/IT Incident,Yes
+current,a2b1e872651a3d99e87b1bed6c45d19f4b9ef249bba9d141453bdf72bf97d6f2,2317,02/28/2023,,Email,NY,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,c14606fd50c78019ca2d64b0bb7e659a6f444815bcb4b01334be5de8b398d10d,531,02/28/2023,,Email,TX,Health Plan,Unauthorized Access/Disclosure,No
+current,33f1a3dac043deb24e70e7b7c5489e7c6240ac64d26e43a1b5785c0efe28440e,8834,02/24/2023,,Electronic Medical Record,OR,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,6009980cac03612e464a35ed6711ff74bfff8a2587bd9412bcc259fcb3dc94d4,20216,02/24/2023,,Network Server,HI,Healthcare Provider,Hacking/IT Incident,No
+current,281b3ea38d7750696c4bd1670139d905bd56b7cc5caab2a0a40ba781905c54c0,625,02/24/2023,,Network Server,TX,Business Associate,Hacking/IT Incident,Yes
+current,75478744ad9a61f653fcbd066f779d00c7ab392ca7ea0133102e18817e3dca68,584,02/23/2023,,Email,OR,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,7f03e64a7f5744a95493f8e60307abc88f1718da15d72423e440e3fea01d5619,100000,02/17/2023,,Network Server,KS,Healthcare Provider,Hacking/IT Incident,No
+current,d7a88d07cb730eb46d2d8368dd31e9094efb481945a8d9b8ad0bd34ae6947877,986,02/17/2023,,Other Portable Electronic Device,CA,Business Associate,Theft,Yes
+current,58687a705fcfefc7490a0ed9e735cfdde5a61e6ad930e87e0ef989843e35bbea,8500,02/15/2023,,Network Server,NM,Healthcare Provider,Hacking/IT Incident,Yes
+current,9394afb61118900e315c3a7a3664b8b19b2bc2a4598346273293ea4e13222a35,2281,02/14/2023,,Network Server,WA,Healthcare Provider,Hacking/IT Incident,No
+current,cc25eb667bfc440033dd583d371595ce5fbb9efb8f2fffb77cef17c14e2cef25,250918,02/10/2023,,Network Server,FL,Business Associate,Hacking/IT Incident,Yes
+current,9b51915f246042ef88625325efa962129db0dfa1c0d805e03dd1d2400ae08267,617901,02/10/2023,,Network Server,NJ,Healthcare Provider,Hacking/IT Incident,No
+current,ac1494956c77dae113722d00fd7a139bde02c5ac009f88c6be0141fd30fb50f9,11595,02/10/2023,,Network Server,NC,Business Associate,Hacking/IT Incident,Yes
+current,f88b452f3bf0aa87176ee6df41b0064e9352cd780749586bbcda33ce346947b5,537,02/10/2023,,Email,KS,Healthcare Provider,Hacking/IT Incident,No
+current,63d21b8fd072f7227fecacc9951b82a743f05057a2ff098bcb373429c32593c4,36600,02/10/2023,,Email,PA,Business Associate,Hacking/IT Incident,Yes
+current,ffcf2694545103516a33e6da9ba4b4d235ae0594b779aad67bac75c87bb25dd1,21325,02/10/2023,,Network Server,WA,Healthcare Provider,Hacking/IT Incident,No
+current,63d21b8fd072f7227fecacc9951b82a743f05057a2ff098bcb373429c32593c4,239039,02/10/2023,,Email,PA,Health Plan,Hacking/IT Incident,No
+current,ddf75bba639fc17b2f58e1ae868e01b6d3f3295f1abc38edfb63354228ea366c,4158,02/10/2023,,Electronic Medical Record,NH,Healthcare Provider,Hacking/IT Incident,Yes
+current,7449470430fa3da2b0c365bc8ba15fd259584236723d4541005b22fc62cac82b,500,02/10/2023,,"Desktop Computer, Network Server",IA,Healthcare Provider,Hacking/IT Incident,No
+current,9bc9260af16bd91df695122025b427acac7265084c423fb2b701db1ec120b1c7,12222,02/09/2023,,Network Server,WY,Healthcare Provider,Hacking/IT Incident,No
+current,69cab965a08cd68bbd28046f676eaeec9c61c5c4c73dabe44962188ddbe30d9c,1337,02/09/2023,,Network Server,GA,Healthcare Provider,Hacking/IT Incident,No
+current,2fd27b3d9476453db2adfe0cebbe944af90af909804864c33a731b5b66529e93,3909,02/09/2023,,Network Server,NJ,Health Plan,Hacking/IT Incident,No
+current,d6d2d36a430e4e4b35e9c83e05555d80a6472f7a6ca7bccd3eb700fe689494f7,175000,02/08/2023,,Network Server,WI,Business Associate,Hacking/IT Incident,Yes
+current,3006ae2f1110b3f1329f19a93fd2daedf80a5d878199b1cc19591848cdb7be30,14335,02/07/2023,,Network Server,PA,Healthcare Provider,Hacking/IT Incident,No
+current,4cefa608bc070d40f952ffd0e1c0fd7ebf70afe2c0e041f50b77d3100309e713,2160,02/07/2023,,Network Server,CT,Healthcare Provider,Hacking/IT Incident,No
+current,15694504e7dd0efd2f80d9a247c2dad0b02c37528af6987a7811c2776b16e6df,2673,02/07/2023,,Electronic Medical Record,NY,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,029affce66cbd986c0b43e2a51aa099f5e652a4db4907ebedcc8a8d64bc848bc,25464,02/06/2023,,Network Server,MI,Health Plan,Hacking/IT Incident,No
+current,5e615978c63aad379d025c8bdda29ad3df14eecb96b5af8ba2a4615c876bb6b3,1618,02/06/2023,,Email,MA,Healthcare Provider,Hacking/IT Incident,No
+current,594d5945a2270c0b5175f1b4cf4d8581e6f24b65642a94aa6fbd783b80dd6025,54509,02/03/2023,,Network Server,IL,Business Associate,Hacking/IT Incident,Yes
+current,d9e470d4547d8860b3c8721473ec3cba2d9a902dc4bcdf838a102c25259bb838,441640,02/03/2023,,Network Server,AL,Healthcare Provider,Hacking/IT Incident,No
+current,958b40b8f68f4484dc485c976ea2290f6b0b528b9eca6608d6119ce8424945f0,1435,02/03/2023,,Email,CO,Healthcare Provider,Hacking/IT Incident,No
+current,810dbcf646313689f710d9cb3f79a62dcef5ad8a5d8507ac715845bea561d2f9,1277,02/01/2023,,Network Server,AZ,Healthcare Provider,Hacking/IT Incident,No
+current,1a9d42e624e014255784fe80ef5205d7bfed9fffd8bc92cafa30c768bf1ad8be,10978,02/01/2023,,Network Server,AZ,Healthcare Provider,Hacking/IT Incident,No
+current,eb9f92b9d0897046593c1c2f911b5931418412d766c86f36e677d7139b2d9847,3388856,02/01/2023,,Network Server,CA,Healthcare Provider,Hacking/IT Incident,No
+current,2324aa93165e176763096f50ae7ed6bbccd668baa01ab5b0ccfe7c9294e2a43e,597,01/31/2023,,Paper/Films,TX,Healthcare Provider,Theft,No
+current,f6a1dfdee5e84694872161ebcd6e06a9b88573f494767dad54082fa726365785,1554,01/31/2023,,Network Server,FL,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,d61cc3308fd0d1d0266f3c41bf60a79c1c5f658a84d3eb67b330f5173637e281,10000,01/27/2023,,Network Server,MA,Healthcare Provider,Hacking/IT Incident,No
+current,0497eda81d07f10670588f0120a8f7f138dee64f2d09e23d2eb7dd18621cc6c5,6465,01/27/2023,,Network Server,IL,Business Associate,Hacking/IT Incident,Yes
+current,3d4ac3902dfbbfaebb367c3b81d41de5ab075dd1ca37a1b462b31dc47345f727,794,01/27/2023,,Email,MO,Healthcare Provider,Hacking/IT Incident,No
+current,130ec36ce3eaf3f22d866d7af9879769973e6728d4c806f19a5dfe3db3d47565,50000,01/27/2023,,Desktop Computer,TX,Healthcare Provider,Hacking/IT Incident,No
+current,0f277a0e0ba63d7b7143f204c7517be8c4f259334b9cfa51d9706638f34b86e0,500,01/27/2023,,Email,MA,Healthcare Provider,Hacking/IT Incident,No
+current,7a0366850d5db4882d4620678e1b996f793a4392917200d66bb11f3837d6b951,3356,01/27/2023,,Email,KS,Business Associate,Hacking/IT Incident,Yes
+current,57d830a935652d587e9da62c7637cdb67448e0d160bfb2c5309680ce3c4e2305,501,01/27/2023,,Network Server,CA,Healthcare Provider,Hacking/IT Incident,No
+current,ff3ab05b1b345f13a43586ecbc4d660411bfc2ad1fa6741991e91f79e0424bb2,53668,01/27/2023,,Network Server,AR,Healthcare Provider,Hacking/IT Incident,No
+current,fdbb3b80df56e173873474a50ba82c2e53510a2b875135bc04360df8431de097,2674,01/25/2023,,Other Portable Electronic Device,CA,Healthcare Provider,Theft,No
+current,796d64c75f5a2a4ab7b61c47be6570b6c74dd5de45d1a95b7191e6a285af4c6c,512,01/23/2023,,Paper/Films,GA,Healthcare Provider,Unauthorized Access/Disclosure,Yes
+current,1cd2cf76a9dbf43b9601bbc53ec92c0a70a8f0c186b4963ac26bc3af4ff139ca,2555,01/23/2023,,Paper/Films,GA,Healthcare Provider,Unauthorized Access/Disclosure,Yes
+current,9923a53e572f49bf5389313316fe007b9ed515724bbdb90b1252dfa534ca7c2b,15206,01/20/2023,,Network Server,OH,Health Plan,Unauthorized Access/Disclosure,No
+current,fd697d6410603c8bad98d01f75abd9622c2ef6871b25ff355bc029a5d2a98b8d,500,01/18/2023,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,d5a73f49a13acd86562b491e3da35380178b06e639587f404441f9e7902c8d47,48879,01/17/2023,,Network Server,CO,Healthcare Provider,Hacking/IT Incident,Yes
+current,24bf7e856b5e3b2541f1d7af928905eb0ad876c5a893819ace35c19af6f4823e,3039,01/13/2023,,Email,GA,Health Plan,Hacking/IT Incident,No
+current,ac1494956c77dae113722d00fd7a139bde02c5ac009f88c6be0141fd30fb50f9,500,01/13/2023,,Network Server,NC,Business Associate,Hacking/IT Incident,Yes
+current,7be93e8cbb70e6b8aacdf9abb8415c216679b4f50a9e137417e9ef8def2b6e7c,115940,01/13/2023,,Network Server,MO,Healthcare Provider,Hacking/IT Incident,No
+current,05a07953736d5e4eb0e7b921568dae88b22b8a7c8660e84fd453b7c1679bc04d,125981,01/12/2023,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,No
+current,ae6152793020fe142bba13859b1b3a784eb65458b1a6b1a1f1b5a7cad56a3416,193947,01/10/2023,,Email,NC,Healthcare Provider,Hacking/IT Incident,No
+current,5b17ae04c0fef1f70aa7595796b3dec8ec450d6d41be5557ca41fcd5390aef18,1195,01/05/2023,,Electronic Medical Record,TX,Healthcare Provider,Unauthorized Access/Disclosure,Yes
+current,9472d3c96d34667fadd908ae35e7091db75db256983831820ae8f969f7044d34,5853,01/05/2023,,Electronic Medical Record,TX,Healthcare Provider,Unauthorized Access/Disclosure,Yes
+current,4a4f60adaad4f78d423eb36a48e673f3d732764ab39f788845b887a066614f77,5368,01/05/2023,,Email,MO,Healthcare Provider,Hacking/IT Incident,No
+current,115e7ca87764c64c572330fdeac37f1b74cd4a7965d0caeaa3ac2d9d8101a582,29000,01/05/2023,,Network Server,MA,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,88fdceb6827096cd4cfc260d15e6502447bba326dbabe595886e88071ac106f5,1064,01/05/2023,,"Electronic Medical Record, Laptop",TX,Healthcare Provider,Hacking/IT Incident,No
+current,eeb3471d155ddd280215782c7797656a532d5cf048c4dc59499b0905317f5e15,528,01/05/2023,,Network Server,NJ,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,460c96c33cf422f9deec3d265495d4cd69671d235b02d9fc40ff8d06e5559a79,5264,01/03/2023,,Email,TX,Healthcare Provider,Hacking/IT Incident,No
+current,4c3b752a261608c8b9a2c9cffed7c6203a3e3dd9106bbadc704b6b3ae5fbfaf7,1039,01/03/2023,,Email,NY,Business Associate,Hacking/IT Incident,Yes
+current,f2f4ba25629e3536b26b9fcfe5ead38978a6f1403250f787fc9bc27332aaa74a,61170,01/03/2023,,Network Server,FL,Healthcare Provider,Hacking/IT Incident,No
+current,80125dc27261aac049528b0d1f3847297704eb1b45e076e3ed4d47bf46423878,187742,12/30/2022,,Network Server,TX,Business Associate,Hacking/IT Incident,Yes
+current,e11ce619e7c0d2766f8bcc6d32a67841df0fff2194f315cf8c9a7353f4259db8,112072,12/30/2022,,Network Server,MO,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,b2c0c90c3b71ffab6f9597d56087bda4ab657bd4347ba786e38edaad797b24e0,6250,12/30/2022,,Network Server,FL,Healthcare Provider,Hacking/IT Incident,No
+current,d9e1674ca0a1f0cec1a3e67ea5ac8467e6bbce55493c282795817f86969a8b18,4082,12/30/2022,,Network Server,MA,Health Plan,Hacking/IT Incident,No
+current,09c8c526572d92507877f3e15aa9d4884717db1d289556723ae1bb53dc55418b,1832,12/29/2022,,Email,WI,Business Associate,Hacking/IT Incident,Yes
+current,cf1e4b6f826c622ece96ee8076f8f16207743d16973984e578d262e42c618104,735,12/29/2022,,Network Server,NE,Health Plan,Hacking/IT Incident,No
+current,fffed472d839a6aec1f6ca792efe454b0c6a3c8423445c1f542da4bf051843a7,1969,12/28/2022,,Email,WA,Healthcare Provider,Hacking/IT Incident,No
+current,e4e73b8b14e48503c5fbcf13a80f4087a714829a6c91fcce2ae41d054ef495f5,4222,12/27/2022,,Email,CT,Health Plan,Hacking/IT Incident,No
+current,27e43b5d164640ed2aa5b7b62c80826a82eb42786879170eff31ec3a5787ddcd,3498,12/26/2022,,Network Server,WA,Healthcare Provider,Hacking/IT Incident,No
+current,055f84b48ad42731c8ca1397e8c59f80ea3d16d342693b66e4ead43a00a2bbfe,1205,12/23/2022,,Paper/Films,NY,Business Associate,Unauthorized Access/Disclosure,Yes
+current,397957f2fa0c976d2eefaa66598fe5c2973cbf5421581b7b188a2b750b845726,21202,12/22/2022,,Email,AL,Healthcare Provider,Hacking/IT Incident,No
+current,17ac0a1cf9dd2404d005d77a958430b982ed74e42c87711f1c7ad08865f5e067,269752,12/22/2022,,Network Server,LA,Healthcare Provider,Hacking/IT Incident,No
+current,43d7d50a68bc4ed120202a0cae0c4664e90ab2be9f1ffe8623556ca0a66fd862,973,12/22/2022,,Email,FL,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,cf5c235c02b7bef6a821c940373a7396123dec400dbfa8b3fbacda2489d42248,4265,12/20/2022,,Other,CA,Business Associate,Hacking/IT Incident,Yes
+current,9e4fb1a9e02eac70f6bdd4c812865d24b7792bbfcf088360b990dd3e2e1f2e26,2000,12/20/2022,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,No
+current,7e5b2b6cf13994e92dba4fb9dc3f55889e742db56c05cd82b6ab54d7a706590e,1060,12/20/2022,,Network Server,SD,Healthcare Provider,Hacking/IT Incident,Yes
+current,76b9f2fea23f86dbd7fc9215aa0d38e6573f2904571f46903d7a4dbf6c6ac1f1,612000,12/19/2022,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,No
+current,62ef506c2725cf4ee4c5df15e722f0d56f6863a6833ece669cb05a252295be75,56155,12/16/2022,,Network Server,NC,Healthcare Provider,Hacking/IT Incident,No
+current,71b4653b0d7bdfb4853c7e66991f3990ffeb16d440b667ab78d60f12e375f28d,14194,12/16/2022,,Email,FL,Healthcare Provider,Hacking/IT Incident,No
+current,ddf3c1c94bbddfff4a5a27f5e35f56d107bf6626a563b83aaf761da2d7b3d3d1,4635,12/15/2022,,Network Server,SD,Business Associate,Hacking/IT Incident,Yes
+current,ae01863208a3480bd2dd35da2c8aa2fb51d83b484712c6590e74434f9b7aae0e,271303,12/13/2022,,Network Server,OK,Business Associate,Hacking/IT Incident,Yes
+current,46eee93a466f8824905480e714e21a44dd86efbe76b586ad603ceaebe3256110,902,12/13/2022,,Laptop,WA,Healthcare Provider,Hacking/IT Incident,No
+current,e117d7d9b7b1b0f7ca48c1def331ac3d10da90d28eb0af96b0f385cc2704806e,5396,12/12/2022,,Email,HI,Healthcare Provider,Hacking/IT Incident,No
+current,41fd22c364078c47100f013fc755e8c3546d3c0c042889ad142ce1bee41e28bb,2927,12/09/2022,,Network Server,FL,Health Plan,Hacking/IT Incident,No
+current,ac33033576b0b909e4e2a4a3b27c7506ae7120f49b30f269a09fac8c8bd01154,1364,12/09/2022,,Network Server,MA,Healthcare Provider,Hacking/IT Incident,No
+current,cb58cccef491befe91aac1aa30ff87ee9a0ad9834e8f2163470de3915a9aa182,8800,12/07/2022,,Email,RI,Healthcare Provider,Unauthorized Access/Disclosure,Yes
+current,60c7f2de452211c685a3ca28fdc9153bf989b1b1b648ff648d22823480e80086,1047,12/06/2022,,Email,MD,Healthcare Provider,Hacking/IT Incident,No
+current,c67138f7dd75adf162cdc5a987e44b1543ad7ea2b0b573f7f65c4adc45199d2a,1891,12/06/2022,,Electronic Medical Record,GA,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,aa8161de27aa9352f43c1faac58c66924d7ec0183b57613c125b6ba031406397,20849,12/06/2022,,Network Server,GA,Health Plan,Hacking/IT Incident,No
+current,bda011164cb0db068277ee8ce586ec04e0255d7784d078a3bf5f8ec7cbcca114,1220,12/02/2022,,Network Server,MO,Business Associate,Hacking/IT Incident,Yes
+current,28e59b69987cadacff4927f1cf115d68c683975747ee36e780eb0283a00744e4,2174,12/02/2022,,Other Portable Electronic Device,NY,Healthcare Provider,Loss,No
+current,33b030061da57fd4199fb76158f7c46228c5f85feffd371c8c8adb9a1bf929ac,623774,12/01/2022,,Network Server,IL,Business Associate,Hacking/IT Incident,Yes
+current,141e95a9f4271dfd688404de584d35906c48a56b657c89091b06566b66ca5201,2200,11/29/2022,,Email,CA,Healthcare Provider,Hacking/IT Incident,No
+current,9b44fe59a9f1da7b36c5c9697acb64db1797b7f95dffd7851dd545981b50a7ea,69835,11/23/2022,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,No
+current,fddd5c04b693093913621a58e51909b9fa97be0e9ffda575e69120a73faa360d,1307,11/23/2022,,Email,IN,Healthcare Provider,Hacking/IT Incident,No
+current,3fbcfbed892a2801fe5f9840a6007abce1bfbfd00c4cd7984b2b01c67fd2f457,84814,11/22/2022,,Network Server,AR,Healthcare Provider,Hacking/IT Incident,No
+current,544cb907ac8bbb36b4bd06c68d5424aaa7091c6b26395431ac51ef6a3c18c0e4,9972,11/21/2022,,Electronic Medical Record,MD,Healthcare Provider,Hacking/IT Incident,No
+current,a60137cc694d94c974d59513e19b9109bf01fca6ebd5224baa3bfa70cb2c0733,3662,11/18/2022,,Email,FL,Healthcare Provider,Hacking/IT Incident,No
+current,108f58853bb0c4c3ae7108c0a21822466b73d6b3d33e6dbfaf5213a3811d7ffe,877584,11/18/2022,,Network Server,MI,Healthcare Provider,Hacking/IT Incident,No
+current,18c1340627cde07748dab0baa406455448c32eb0f6aa7f9028d96f89e3f18f5a,130000,11/18/2022,,Network Server,PA,Healthcare Provider,Hacking/IT Incident,No
+current,96a35265e6c47667ce6675d5888360449084f9627d1058dce5cb7f86ca439521,1861,11/17/2022,,Electronic Medical Record,NV,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,78e6f60c9f8c43f1a316350763a272cf52b144b1f950d467aa84be589188b605,56728,11/17/2022,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,Yes
+current,e82e4cfc9d2f1ceef0eba5179cc15b66a5b8091a1129728a426d9e82d0f6b398,2654,11/17/2022,,Network Server,GA,Health Plan,Hacking/IT Incident,No
+current,01ccfae38b985e9a0d132156ea51ce0578800afa426f44751068ce2a3b812c4d,25331,11/15/2022,,Network Server,FL,Healthcare Provider,Hacking/IT Incident,No
+current,66ccc56d8f10f698e74111d19506cbdbdeb108840468209cf078d83b8c04d3b2,3146,11/15/2022,,Network Server,CT,Healthcare Provider,Hacking/IT Incident,No
+current,df6ba63b2e28582b56eabe1b3a17dff34fd55464b64d307faf10b718300f5fca,10862,11/14/2022,,Email,TN,Healthcare Provider,Hacking/IT Incident,No
+current,9acd360d7a939bb2ea346b27e8e0041f22546c4831654fad2fd77289aafe34a8,500000,11/14/2022,,Network Server,WV,Business Associate,Hacking/IT Incident,Yes
+current,3628a4875ffee7d994e61ed6ae5b5269a9b9cc7162e7c46ee063b7be2a4c3199,9051,11/11/2022,,Network Server,CT,Healthcare Provider,Hacking/IT Incident,No
+current,b9c35076b81c6ed47c522eb210574aa2523dc1b21f85ec47c5431439fca8d6e5,12000,11/11/2022,,Laptop,NY,Healthcare Provider,Hacking/IT Incident,No
+current,413a691ab5273217ecf9041e7b5b74b526dcc07b0a760e71bc8c83c762193a21,45785,11/11/2022,,Network Server,MA,Healthcare Provider,Hacking/IT Incident,No
+current,65e7e1ba2fa39493dc4223640dd0d695809d65b286d1c253650d3efcadcaa1f2,2675934,11/11/2022,,Network Server,PA,Business Associate,Hacking/IT Incident,Yes
+current,18bf066027426cbafa4f9b6611306017216fefdb4c7dbb18df4c148674e057b3,1195220,11/09/2022,,Network Server,,Healthcare Provider,Hacking/IT Incident,No
+current,b237b65588d4d79ae34933dcfb44aecb51458f3a01ab89e6c50fa7dd57539a19,46694,11/08/2022,,Network Server,IL,Business Associate,Hacking/IT Incident,Yes
+current,934d9f96dd500258f319edb9410f92ca7acb693874e3017e83cd74fdcfd8af9c,1723,11/08/2022,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,c32899bc11c6b9aca999a3bdc4d584d5cf0e6f1d01ffebb7cb6662e4dc103538,501,11/05/2022,,Network Server,TN,Healthcare Provider,Hacking/IT Incident,No
+current,1425c4b3fe4b4409ecc90154aaa74b2f5bdf3fae2c1b579231f372605f5a80c8,2000,11/03/2022,,Network Server,FL,Healthcare Provider,Hacking/IT Incident,No
+current,81f2dc35dfd37eb450ea1a85804b59b2dac7457145ac9a97f9e692753983f5a0,2048,11/03/2022,,Network Server,CA,Business Associate,Hacking/IT Incident,Yes
+current,e33ba63d8d31b2ed707142092ae7a2993546e1883bf1920c3fe74f1fdf188c22,1362,11/01/2022,,Network Server,IN,Business Associate,Hacking/IT Incident,Yes
+current,4fbbad50f60e94781705b859b11949c32639c147a61d17aef89ecf44eb298278,4380,10/31/2022,,Network Server,KY,Business Associate,Unauthorized Access/Disclosure,Yes
+current,4fbbad50f60e94781705b859b11949c32639c147a61d17aef89ecf44eb298278,438713,10/31/2022,,Network Server,KY,Business Associate,Unauthorized Access/Disclosure,Yes
+current,d5ccfe93f2d2ae4406193be9e04969ffd3a3fda1c7ea32502a053ed4387b73f8,2100,10/31/2022,,Network Server,WA,Health Plan,Hacking/IT Incident,No
+current,4459c959a1c119232dc69e1b1ff6b9c66f7d151b5c39c57688afea25e28b2c1c,721,10/31/2022,,Network Server,FL,Healthcare Provider,Unauthorized Access/Disclosure,Yes
+current,129c3f33b0c08b76705e5e7a7b7be87a05ee9c69f2ec8c3a5cc6a9e0717e3278,3614,10/31/2022,,Network Server,WI,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,bfc5c49df32ab8e3b11140ebd164778bb46f66f2d7af4157e9ddad7c0307d5c6,85466,10/31/2022,,Network Server,LA,Healthcare Provider,Unauthorized Access/Disclosure,Yes
+current,1c2c51224a08ecba5845ceb55c9e95adbc032412237826d461574cd1aca15a55,21544,10/31/2022,,Email,NY,Health Plan,Hacking/IT Incident,No
+current,134d16a1378a44cc88e09e5302fbef111c345334a18013db6ca2597ac076f60b,16906,10/30/2022,,Email,TX,Healthcare Provider,Hacking/IT Incident,Yes
+current,3c2ad5600343d486642261d70e055682151a05731bad1a1b013c3067bb02ec86,3565,10/28/2022,,Email,IN,Healthcare Provider,Hacking/IT Incident,No
+current,fb8343a4b20410d0ec8230e0e0af6fe85afcf6f50782e3f3ad22dfaf93edad76,637999,10/28/2022,,Network Server,AZ,Health Plan,Hacking/IT Incident,Yes
+current,97fc3ce0484cf666e45e734ac53f977bd586b8ee54d59e22e1e5f682f6004334,73073,10/28/2022,,Network Server,AZ,Healthcare Provider,Hacking/IT Incident,Yes
+current,b8cae67e5fe90e20db4df2b56d5efd4e990c2529adc27cab301ebd84ffb5a113,3900,10/27/2022,,Email,NJ,Health Plan,Unauthorized Access/Disclosure,No
+current,a7c4c0fd84122016eecd8392589a80a640a94891841998a966044676e241dcde,33857,10/25/2022,,Email,MI,Healthcare Provider,Hacking/IT Incident,No
+current,c50b65b425ced689394e37f0c9c56af08a0bbd557c0878e1fa311738d43eaf91,679,10/25/2022,,Electronic Medical Record,NC,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,76eb01f23f068b074b95ff0804ee66a2cb42f5b5312e8ccae641137baf947db2,1326,10/24/2022,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,14004c13d91fb2d692bf7d0a4a79317e2e50f4d15f06ba320ed688de4802cbb5,10848,10/24/2022,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,c3e43e40e84fe3bd4b10449035db961a439399419d39ac54a16351f62eebb342,480435,10/21/2022,,Network Server,IL,Health Plan,Hacking/IT Incident,No
+current,5c96300367f1fb63f0b5d535ab315d084cc52ffbe63b3a629e344da4d7cd074b,6594,10/21/2022,,Email,FL,Healthcare Provider,Hacking/IT Incident,No
+current,a0acf5fd34006a067a563ff3af07ff036b9ad286e4f5caf9daafc01823fe8817,1558,10/21/2022,,Network Server,RI,Healthcare Provider,Hacking/IT Incident,No
+current,7dbcc274b40ea9c92b4bf7dae0a80628515dadb4ff727fa440e2ecb6f5c529d3,20526,10/20/2022,,Network Server,OH,Health Plan,Hacking/IT Incident,No
+current,8b3a4efd537753f150738833cf3d2c6d399ab9e11b8803709d53787f88e1f131,2612,10/20/2022,,Network Server,WI,Healthcare Provider,Hacking/IT Incident,No
+current,3883a19dfce9585801d1b7a9611192ea2cc6ba558b6180c951a89450973a02ef,983,10/20/2022,,Network Server,CT,Business Associate,Hacking/IT Incident,Yes
+current,451e965f4be81818ecd04edfa2c3a0029234af2a0f5fdbd1493b34a2c2fd1172,500,10/16/2022,,Network Server,MA,Healthcare Provider,Hacking/IT Incident,No
+current,785d7860e421c613f8ded8f66e945db8c50587ef0697816e9f6c37e272068663,1419,10/14/2022,,Email,IL,Healthcare Provider,Hacking/IT Incident,No
+current,335cfc926065c8b1f26861144244359a1b183af6db685af62f316119c2dcd0f8,17157,10/14/2022,,Laptop,CA,Healthcare Provider,Theft,No
+current,b47aaa77fd183d3a9669f3fd0d8f09e648143e589bbc7a02cd7d97c8ecf93fee,1308,10/14/2022,,Network Server,KS,Health Plan,Hacking/IT Incident,No
+current,7a12b9e824bfe541ed8ee9d49500f1c915638de95f79da809b363dda202c8ff4,495808,10/14/2022,,Network Server,NC,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,a8f3bb4f2d117168b1e1915b49e4f648fd8e9d20e45c453e3471520499553fab,802,10/14/2022,,Other Portable Electronic Device,IL,Healthcare Provider,Loss,No
+current,a8c6e0afde44273c39185a911b053a4376c57ab7d5db3bd7f1c99a3c45fea164,15056,10/14/2022,,Email,TX,Healthcare Provider,Hacking/IT Incident,Yes
+current,b89225e2fb8f0135c271065d7246d73426687269d6a63ac52f50bbf4f594be06,71227,10/14/2022,,Network Server,GA,Healthcare Provider,Hacking/IT Incident,No
+current,c4412ce25e1868b737253a60d2d7d76fb1c478e2d6f0475f373923456def4d11,4245,10/14/2022,,Paper/Films,NJ,Healthcare Provider,Improper Disposal,No
+current,14da9fe4ac66f4d1b0ad04c261ec06211104431c8f824ff8af9696eb79e4e153,235237,10/14/2022,,Network Server,PA,Healthcare Provider,Hacking/IT Incident,No
+current,fa5cf91193f12f0dbf3e435275ada4d99be35c0d67dd28633941be1ad7c71a38,982,10/12/2022,,Email,DE,Healthcare Provider,Hacking/IT Incident,No
+current,26adc57f62e80faccd53e307dc4a0be778443dc76ebd002ac522f13f327c6c5c,1359,10/12/2022,,Electronic Medical Record,NE,Healthcare Provider,Theft,No
+current,f1786ec28ed27556e1ecef7778ac0bc7b62c26901e33dfc4e320d5e2bc18020f,1279,10/12/2022,,Network Server,VA,Health Plan,Hacking/IT Incident,No
+current,d069c7e257a84a37c89ed0260d5d78567d3dca1d8306eadf7f473e154c4d8bd5,33793,10/10/2022,,Network Server,PA,Healthcare Provider,Hacking/IT Incident,No
+current,24e51f7d9d6aa13bb8d1e2ddcc7b2c13ea5f5b69cd7b0be09e964eeb90dac81d,804,10/10/2022,,Other Portable Electronic Device,NJ,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,7a978743f832a0e78181b3f30427b78da3c86eece70821d0771bd5d0357fb26a,15375,10/07/2022,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,98f43f4d41f8142b90dfd5cd75ae93abdbd8dfd57f97539d45ad6cb3b8986f7f,1500,10/07/2022,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,No
+current,2f44dc8c3b74101c4449d276b6d2ae6b0fb5ca76c781162190b834beab0ebb2b,79795,10/07/2022,,"Network Server, Other",GA,Healthcare Provider,Hacking/IT Incident,No
+current,04fb85f28f02290d1c79e006e4d522513d7727172ad1aab39b84e19376aeef8a,12358,10/07/2022,,Email,WI,Health Plan,Unauthorized Access/Disclosure,No
+current,18edfb1e268241f582c423a680ba8a87a255b173a88a84862114d44ebcb3ec85,951,10/06/2022,,Email,NY,Healthcare Provider,Hacking/IT Incident,No
+current,746f31df6ae5dca075c3eb4681f258c946a673869865cdf90ed97058242651fa,70268,10/05/2022,,Network Server,AZ,Healthcare Provider,Hacking/IT Incident,No
+current,23231554b18ae901da0c0d957112ebba6078b228351ff060891ad5e5ea6aef75,6482,10/03/2022,,Network Server,MD,Healthcare Provider,Hacking/IT Incident,No
+current,534605df1a67ff3c2cce6516dbfd3bb9f84711b016a7526dd66554b4ade3c027,35900,10/03/2022,,Email,TX,Business Associate,Hacking/IT Incident,Yes
+current,017d17f5122cef8d4265174ef639310d6d8a4ef955ac8748bfc34b2172860f52,14500,09/30/2022,,"Electronic Medical Record, Network Server",MI,Healthcare Provider,Hacking/IT Incident,No
+current,1dc1b8ce46c7acb8e94cd9e7659561a6df316e132b91fecd7a2432f843cb1a59,13406,09/30/2022,,Network Server,IN,Health Plan,Unauthorized Access/Disclosure,Yes
+current,ff01761a7331c3fccef7c467f41c1946fa090977ba5955ebcdcf8779c9d78b57,537,09/29/2022,,Other Portable Electronic Device,IN,Business Associate,Theft,Yes
+current,21645875d6db8a93db5283e2222d3054790bef10a4b0611a2b60e2e551a2e486,4688,09/28/2022,,Network Server,GA,Business Associate,Hacking/IT Incident,Yes
+current,0664d28c6b381bde61795535433e3951f930854f3cf55e0ed66bb07a03a8c0c8,610,09/28/2022,,Network Server,CT,Business Associate,Hacking/IT Incident,Yes
+current,e578fa870d3b072326ac8f5a533947db7fea6a561eb39f5b0b6303bc5bf02b23,19020,09/26/2022,,Network Server,KS,Healthcare Provider,Hacking/IT Incident,No
+current,38f8c0193b5f3aabc5369b6dbd121b84e529b68608a88339968696d33c7c4bf0,5494,09/26/2022,,Network Server,NY,Health Plan,Hacking/IT Incident,Yes
+current,9fcad93f4b32cda3b9c0ef18a289cc388c1695d4c0cc51d34264910269d955b6,1332,09/23/2022,,Other Portable Electronic Device,NY,Healthcare Provider,Theft,No
+current,cfabbc9d9b19fc805cb26cae21180176813e99657fa6cf76578a94e385039193,233948,09/23/2022,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,No
+current,4df23f5ac0adbc64a1e89e3a08c712da951e515080c29fabf36f9c318470f658,15378,09/23/2022,,Network Server,MI,Healthcare Provider,Hacking/IT Incident,No
+current,4326c456ce11f0e5147805b8262bdb5b6b0c84833d3dff783b4eeff8ab8d263b,2020,09/23/2022,,Email,NE,Healthcare Provider,Hacking/IT Incident,No
+current,b5ed2c4567c4c86b9f04e06d289f6daf41eb4a9764272f6dce50db5cc6b7267a,10506,09/23/2022,,"Electronic Medical Record, Network Server",TX,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,5e76d5c78c42f98d1fbe1e9aeb5192a1f40e7e4152269187092f7a3dfc303c49,196673,09/23/2022,,Network Server,WV,Business Associate,Hacking/IT Incident,Yes
+current,f5d751cae00ebab3b99a185405c208010a0f44f7cba648eba313cd2e8385d6f2,58562,09/23/2022,,Network Server,TN,Healthcare Provider,Hacking/IT Incident,No
+current,5eb95ba6a26ba6d633a50632d4c379da3a96b82264329564228cd0c8e5185c33,788,09/23/2022,,Email,IN,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,9fd34e155e4a3515053c6516ef1b63fc8bfcbc3f6401543501d796811cab7ff6,3804,09/21/2022,,Network Server,WA,Healthcare Provider,Hacking/IT Incident,Yes
+current,e4f70a5a7ef903cc23182981cc5fc5cd2712329c6612dbafe15eb6c1d7a3e45c,23058,09/16/2022,,Network Server,NY,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,7ed320a93e0c211f521ddeebd81f9f28b01adf2c58bb3dec18125eddb529dd53,501,09/15/2022,,Network Server,FL,Healthcare Provider,Hacking/IT Incident,No
+current,d12be719f8306c8329eacac40ab291c3965d78f31ef56fe01a79214df475d5b7,3675,09/12/2022,,Email,TN,Healthcare Provider,Hacking/IT Incident,No
+current,dc8db2f6815a2cad8a911240206cf73b80a84ff5cbcca9c0277ce6e71a63b4d3,8110,09/09/2022,,Network Server,NJ,Healthcare Provider,Hacking/IT Incident,No
+current,4004168a39b8de6c90135c39bf646b749c94661539626f7c07e16061a7e652a5,983,09/09/2022,,Network Server,TN,Health Plan,Hacking/IT Incident,Yes
+current,fc7751b0643a2270f92bbdbeae08ea27f6c97f82ccd7c71f1ff771e6df3fedef,1650,09/09/2022,,Network Server,PA,Business Associate,Hacking/IT Incident,Yes
+current,9bfabbb96657d2762e29ae264e23249a8c8aad690102051168571f8e8326f1be,75628,09/09/2022,,Network Server,PA,Healthcare Provider,Hacking/IT Incident,No
+current,60711b4dd83ce0d14795f7237efc4a33ac15006c446287faf7e0fdf4f5f5012e,501,09/02/2022,,Network Server,FL,Business Associate,Hacking/IT Incident,Yes
+current,2851f2c8c198f7a4e955f2e0a9d4e0bce45d649ebb97c5c6a64636b0581b9e75,2153,09/01/2022,,Network Server,RI,Healthcare Provider,Hacking/IT Incident,No
+current,29620fd8301c5bc38a34aca06f266b11305f2d02d5fa724da6945eebf85dfe06,1704,08/31/2022,,Paper/Films,IL,Healthcare Provider,Theft,No
+current,1f5d2f865b081a175f3a782af85d97dae168eb7148f5fc99708d7994705b08ef,5738,08/29/2022,,Network Server,MI,Business Associate,Unauthorized Access/Disclosure,Yes
+current,e720a4332fd18dd2d4ec5a6acde503973a75ea292e01760cf4b70c53916e16da,5701,08/29/2022,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,88576475fca39191c7292f2c444393f88bb43e5549d183fd4c0e6f25b5e39291,110244,08/26/2022,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,No
+current,fd921c5ec2f403c5764d1b806e11b743c230c10b3d050abba5b3f9ed2e61e5dc,15157,08/26/2022,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,No
+current,3e3c2fd1553cc9a5e036681dc18e8c8b9a709586d657a6f53db94adca4b50d93,46149,08/25/2022,,Network Server,LA,Healthcare Provider,Hacking/IT Incident,No
+current,aa56d655ff863d04d6d5bc6adb161817b46a1906ca272a7b159faf5703f46176,3000,08/25/2022,,"Electronic Medical Record, Network Server",NC,Healthcare Provider,Hacking/IT Incident,Yes
+current,56a1dcda74c1ba0b9eb689d1809f68c97ddc28717d752163377e761a023f86c7,10461,08/24/2022,,Network Server,NH,Healthcare Provider,Hacking/IT Incident,No
+current,0c130372fadc6d461c45e76db5f296961fba24c9167e7c45138c83b0543feff5,255160,08/24/2022,,Network Server,MI,Business Associate,Hacking/IT Incident,Yes
+current,d92a62432979857c4e27c1589d3f8425148bd265325414602fb9b62ec2ef9fc7,27367,08/15/2022,,Network Server,CA,Healthcare Provider,Hacking/IT Incident,No
+current,2ddcdbc40e1139c1b68094ebe27d13b1b41f60b4ea341916f42523a03dda6e7a,2001,08/15/2022,,Other Portable Electronic Device,IL,Healthcare Provider,Loss,No
+current,dbb0e095dfd992c05da2ccf2d517e33d13d77d1dc21c1b23de4dbd2f77570316,6877,08/14/2022,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,1405da3abb9c3b3e70af59be29bae53a394c836ee8239d1285ba3c011dd77def,11137,08/12/2022,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,No
+current,c246d6b702a009d2aa2ffd9b7e51b466c6c7d8bcc4cb64c4495e7c4c0ac648a0,7496,08/12/2022,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,No
+current,0527d1309a58c12e7f5561c0fc3aeb7c37d8384522c48bd41dfca79478092197,1059,08/12/2022,,Email,MS,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,834d333d5ef134b19d514c321757b5240b02ff5386ddc1dafd210043fbe9bbb8,25610,08/12/2022,,Email,WI,Healthcare Provider,Hacking/IT Incident,No
+current,32b360b880bd12788f98b96967e4bfec309f04e818c05beecd44b9b0e7e16a3d,1650,08/08/2022,,Paper/Films,MI,Business Associate,Unauthorized Access/Disclosure,Yes
+current,b3d547cf168a739b732750ebb5ac0c858f4f4e75cb6d37523db37268332278d6,500,08/08/2022,,Network Server,PA,Healthcare Provider,Hacking/IT Incident,No
+current,6b3a82f607fd8678d097ecbdad6c0a1fd2ad38290c5842a0063f72075f21cd60,500,08/05/2022,,Network Server,TX,Business Associate,Hacking/IT Incident,Yes
+current,8ee3e364451747fcf4d5e5bf255321fa7d66e0adedb2f0c6bac51ac8283a1971,4000,08/05/2022,,Email,NH,Healthcare Provider,Hacking/IT Incident,No
+current,476b512d26fb9126d3fa47cf58db876dd62049a21d90bf916cb542c6153ae832,1700,08/04/2022,,Email,IN,Healthcare Provider,Hacking/IT Incident,No
+current,f8b13ee433bf27f0f3709684a6304dd9a2d0207dd1d3689be2dc78b8caece28e,942138,08/04/2022,,Network Server,NY,Business Associate,Hacking/IT Incident,Yes
+current,11e8dc612e78f8aecaa035f1d47229c31d03d05b6668ab192a2932ae5888e762,3307,08/03/2022,,Network Server,AR,Healthcare Provider,Hacking/IT Incident,No
+current,ca478a2f5bb75f513673e1c8dfaf4eb4ca07ae57516ca8c5728d32a5e0c3126a,1707,07/29/2022,,Email,NC,Healthcare Provider,Hacking/IT Incident,No
+current,30ed068d104190f34fefa7e5ea1192650f47d205c8c279075ad958db3b8fdd57,21114,07/29/2022,,Email,OK,Healthcare Provider,Hacking/IT Incident,No
+current,0f277a0e0ba63d7b7143f204c7517be8c4f259334b9cfa51d9706638f34b86e0,4000,07/29/2022,,Email,MA,Healthcare Provider,Hacking/IT Incident,No
+current,27eea9cc8f2139cd0e270fa124050248711af7dd82fe3f3b0933b655a8090052,4112892,07/27/2022,,Network Server,WI,Business Associate,Hacking/IT Incident,Yes
+current,5e13286fb9186964fe68952975ea4fd7fcbedcf71d00768272c494575b882685,197507,07/27/2022,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,No
+current,028fde2332b0deca2ad4c029c182c34425444a3aa9e45be21f34d8f1ecabb65a,3717,07/26/2022,,Email,TX,Healthcare Provider,Hacking/IT Incident,No
+current,923e19fbdfed647d4d6a518b799f2f067b7580278095cf9b2698ebd19133e808,8071,07/26/2022,,Email,PA,Healthcare Provider,Hacking/IT Incident,No
+current,f3df91ecc2073b1e2e691a23d5189557684f49b373549074be7d6a722cfacaf9,791,07/26/2022,,Network Server,IL,Health Plan,Hacking/IT Incident,No
+current,f7a34670e74406f12de29fc8afbe15eb2fe2b1ddfb011a163f68e357faf2d9f6,9424,07/25/2022,,Network Server,FL,Health Plan,Unauthorized Access/Disclosure,No
+current,4ad58568524bc8b67bafb8ecc4be99f20039e4f7722b36997982883d5ead46f1,1583,07/25/2022,,Email,IA,Business Associate,Hacking/IT Incident,Yes
+current,c353f9ac9f0c6ae3423234ba3f026f02460c1c7632edd060ec455be2eb60e8ab,3805,07/25/2022,,Network Server,NH,Business Associate,Hacking/IT Incident,Yes
+current,c2f88a49b10e600087ca1b9ee4f9d30fa365d29f3d232b1297e6e35789ad58f8,1457,07/25/2022,,Network Server,VA,Business Associate,Hacking/IT Incident,Yes
+current,415cbffe41442735215878c117e244cc7c885a40374d1475dfcc79007cdf309a,2400,07/25/2022,,Email,GA,Healthcare Provider,Hacking/IT Incident,No
+current,6df24c0336ac0e4ac1df8143ce5556f3446429d30d6e742d5055eaf73ff3aa04,1116,07/25/2022,,Email,NC,Healthcare Provider,Hacking/IT Incident,No
+current,908d14fa8a32b6be0f8e34d5401a573d9e9132e7372841de7aa78a10fb0ede1e,5004,07/22/2022,,Network Server,VA,Business Associate,Hacking/IT Incident,Yes
+current,71161a74a2e64cd571ff78b75cc6398afd471be354ffcf6e4e0b70dc939081c4,6109,07/22/2022,,Network Server,RI,Health Plan,Hacking/IT Incident,No
+current,ea4508184be579203f607e39f6f717ae6dbe0eba5c0a4766cd003464db59a319,4614,07/21/2022,,Email,PA,Business Associate,Hacking/IT Incident,Yes
+current,d9103644f5f8d1971eeaf4783714b7967ab7777a824853e86ae293570e34dabe,11938,07/21/2022,,Network Server,ME,Healthcare Provider,Hacking/IT Incident,Yes
+current,a30ac2e9738e2e3e2e589211f248bfdb09b77b5d947e842ee39e03eb85df3b87,4447,07/20/2022,,Network Server,TX,Health Plan,Hacking/IT Incident,No
+current,56b465a6c6f5e3a4723e53fa7ea1dcea0354dae958414bb6a33fcc65c4a0413a,1079,07/20/2022,,Email,SD,Healthcare Provider,Hacking/IT Incident,No
+current,32d6c379f3810911d431af79f624f6111aef6f8fd6a2fc140ba7f233b1fae9a0,37146,07/20/2022,,Paper/Films,WA,Business Associate,Unauthorized Access/Disclosure,Yes
+current,062ddf14033f763e9988788c912f651d3954114af6e28742ea23cf537db96cd6,362833,07/19/2022,,Network Server,IN,Healthcare Provider,Hacking/IT Incident,No
+current,dda9d122fd0d3880ae50551cbd859cd57cc2ac0037640deb26f6cca918b396d6,1178,07/19/2022,,Email,OH,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,86f59770d45c52286c16dd99798ef8ab104a1d9ef617b547788002974bd7ef6e,2236,07/15/2022,,Network Server,PA,Healthcare Provider,Hacking/IT Incident,No
+current,1b6beb504e180fc3d99afb6c3a77cd3afc47fb647b4d5671969563761da49aeb,1201,07/15/2022,,Laptop,NH,Healthcare Provider,Loss,No
+current,5dba0f6b8ca7e02ba2e44379e3640c6b68c07593051a64e0accd7da7970ecc59,28913,07/15/2022,,Network Server,NC,Healthcare Provider,Hacking/IT Incident,No
+current,7c5b2685c48f1c4bdb03ea86c83ee8711f17aa5e4105f2a47182d85c6e9d0f94,1056,07/14/2022,,Network Server,MO,Healthcare Provider,Hacking/IT Incident,No
+current,5019f78b3a0864f1f05a3f2b9518fa74c2952b6bf79abcb16e39a32139191689,83969,07/11/2022,,Network Server,PA,Healthcare Provider,Hacking/IT Incident,No
+current,c2f88a49b10e600087ca1b9ee4f9d30fa365d29f3d232b1297e6e35789ad58f8,878,07/08/2022,,Network Server,VA,Business Associate,Hacking/IT Incident,Yes
+current,ea2db9365fc517043fa7656f5f798922e13bbeb21026672ac36eca347993d0a4,2513,07/08/2022,,Network Server,IL,Healthcare Provider,Hacking/IT Incident,No
+current,04fb85f28f02290d1c79e006e4d522513d7727172ad1aab39b84e19376aeef8a,1698,07/08/2022,,Network Server,WI,Health Plan,Hacking/IT Incident,Yes
+current,c2f88a49b10e600087ca1b9ee4f9d30fa365d29f3d232b1297e6e35789ad58f8,1089,07/08/2022,,Network Server,VA,Business Associate,Hacking/IT Incident,Yes
+current,724fd5ff53366255fc05a469029019db26b5e89e58c0ab438677fd3595833546,46142,07/05/2022,,Network Server,WI,Healthcare Provider,Hacking/IT Incident,No
+current,f4203fbf5639a08c9727b24a26ff046dc441d6c458638a54c6491dcced66bac1,1652,07/05/2022,,"Desktop Computer, Electronic Medical Record",WY,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,822a1bc9167dc5b805d9441081ca1940a2b8b933fed7132ccaad966a0f20748f,130922,07/01/2022,,Network Server,NC,Business Associate,Hacking/IT Incident,Yes
+current,c80bb08d0411bdb5f16401ad54b9b28726fa85ae92e2c3db8c213f4278d7a57a,15062,07/01/2022,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,No
+current,957323b1dd27ee37829a13253712b0941aa3b29b14a9ebfae5c65da487ea46a1,1918941,07/01/2022,,Network Server,CO,Business Associate,Hacking/IT Incident,Yes
+current,447c4e9d360a07d8f2655f420ec4e06ab242a5bb9cae6cd9fd89b0735d28c976,144104,06/30/2022,,Network Server,IL,Healthcare Provider,Hacking/IT Incident,No
+current,57aca7fbfa81d3d813bccfa6e61b77a620d2d80e0ba100302e930b62a28b7d5c,1369,06/30/2022,,Email,NE,Healthcare Provider,Hacking/IT Incident,No
+current,42e46efbf26a7a56584cc47b80eafb6b2cc0d6394c8688cce57e13e716de90bd,628,06/30/2022,,Network Server,VA,Business Associate,Hacking/IT Incident,Yes
+current,c2f88a49b10e600087ca1b9ee4f9d30fa365d29f3d232b1297e6e35789ad58f8,1145,06/29/2022,,Network Server,VA,Business Associate,Hacking/IT Incident,Yes
+current,7779d40c7732e04383f3ab633dd6e75569d35949e593d5926e9fdf84e6910289,92361,06/28/2022,,Electronic Medical Record,MO,Healthcare Provider,Hacking/IT Incident,Yes
+current,c2f88a49b10e600087ca1b9ee4f9d30fa365d29f3d232b1297e6e35789ad58f8,735,06/27/2022,,Network Server,VA,Business Associate,Hacking/IT Incident,Yes
+current,c2f88a49b10e600087ca1b9ee4f9d30fa365d29f3d232b1297e6e35789ad58f8,1267,06/27/2022,,Network Server,VA,Business Associate,Hacking/IT Incident,Yes
+current,42f913f88e99550cc47471b30dbb8ed2ef9ad79505657157d25c85b3650bf1ba,1300,06/22/2022,,Network Server,NJ,Healthcare Provider,Hacking/IT Incident,Yes
+current,26ecac05557a7560efb5fe0c09136bc065816b53af566836682f36a1f1fa8710,1000,06/21/2022,,Network Server,AZ,Healthcare Provider,Hacking/IT Incident,No
+current,aee6e669a9202b2b94e1e76965b40cbd1ce334d99b7f8353059fccece099720c,22011,06/17/2022,,Network Server,OH,Healthcare Provider,Hacking/IT Incident,No
+current,28aafa4003a00951a67e4d9ab7b166c59d0131740b06e34d9ff65c9e9a35fc23,800,06/17/2022,,Paper/Films,IL,Healthcare Provider,Improper Disposal,No
+current,8b350acb86c926e85bc5b08dff3d6ff377c2938379d08d315d3cbc64fe77197f,880,06/17/2022,,Email,OH,Health Plan,Hacking/IT Incident,No
+current,95942c7a3d8c7cd67e5ff63364c5fe31616c01e0b926600ad7142a6b53c90eda,9769,06/16/2022,,Network Server,OH,Health Plan,Unauthorized Access/Disclosure,No
+current,285608ecf096dc5992329a970a62416149de3fbee2b0e8c8154ae0ebda2e55f3,2191,06/16/2022,,Email,NC,Healthcare Provider,Hacking/IT Incident,No
+current,2cc450f9405d7099873fd96d6b88df104fa0b3ecf996e00906830257adfc435b,13344,06/16/2022,,Network Server,NY,Health Plan,Hacking/IT Incident,No
+current,707291701465ac18a8d86f7cde8c787796b729cd5a0e4c80c040c5a91d7a68b8,1608549,06/15/2022,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,No
+current,52769b1cf7941876384a306a2c5f9f86bd422c9447c859f2130b494ec385ac91,54239,06/15/2022,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,No
+current,ac5b70789e312b6d9db1c75ac929160154281d281a18ad142fa6e3c88c8a19a9,19796,06/12/2022,,Network Server,NJ,Business Associate,Hacking/IT Incident,Yes
+current,51a7dd6a07673641f49fb31a2fa8aebc6a58acb947e58abb94bdab94cd6037c1,793283,06/10/2022,,Network Server,WA,Business Associate,Hacking/IT Incident,Yes
+current,2917593a007c644627c41704bfd0d17102ad6fe0fb2604a345776868119476f1,500,06/10/2022,,Email,NY,Healthcare Provider,Hacking/IT Incident,No
+current,62585ed089667c15c4f637977fd727c472991801b00ee017a420f66dd08f0960,783145,06/09/2022,,Network Server,AZ,Healthcare Provider,Hacking/IT Incident,No
+current,d6d2d36a430e4e4b35e9c83e05555d80a6472f7a6ca7bccd3eb700fe689494f7,172450,06/09/2022,,Network Server,WI,Business Associate,Hacking/IT Incident,Yes
+current,945f23e7b2204ac91f776e81d3d07cec10ce673417ddfa7c7d3a250c6614b4a1,3500,06/09/2022,,Network Server,DE,Healthcare Provider,Hacking/IT Incident,No
+current,7c64ccd4119e8fbd36aac4be6235ece1481d0f3c654b88dc8163e30d1d13d82b,1333,06/08/2022,,Network Server,OH,Healthcare Provider,Hacking/IT Incident,Yes
+current,2c338e2b6dd2f226695d2d1cf476bfae1cc35917edb455b94962c0fd57bb7b2d,6695,06/07/2022,,Email,NC,Healthcare Provider,Hacking/IT Incident,No
+current,dba79922f81faf110d7643044380018afa5818129875d689046bfb33c5b9f85d,1658,06/06/2022,,Network Server,NE,Healthcare Provider,Hacking/IT Incident,No
+current,8eade1e4d3da59784a4b9e78924532dad97079a5017286a08756fec805918421,1523,05/31/2022,,Network Server,WA,Healthcare Provider,Hacking/IT Incident,No
+current,044162ba7e9b1dd5372172eed26aba728fa8481bd7642e386cbfe84430148e56,2000000,05/27/2022,,Network Server,MA,Business Associate,Hacking/IT Incident,Yes
+current,316491039f59d7109eee032126b9da54fdb7079c56632b3c2e71e93c4b0ebd48,2568,05/27/2022,,Email,IL,Healthcare Provider,Hacking/IT Incident,No
+current,d468753573e18f1a887348d548706b0e84cd6a46b4887a6371be88dc1384a7c4,500,05/27/2022,,Email,MO,Business Associate,Hacking/IT Incident,Yes
+current,77dac9aad27454e7445e47d9820a78af3aa118da542f3d932e4ce5c6fcca049b,1943,05/26/2022,,Network Server,MI,Health Plan,Hacking/IT Incident,No
+current,f1d55e69c230ffa170c720914c25c618b5a4a5ce6c0cd2d1846a2a05796739cf,129682,05/26/2022,,Network Server,IL,Business Associate,Hacking/IT Incident,Yes
+current,b4032cec5403e938293c4777476ec8c3e9df52c0e6d5e4cc8dbd72e062ff121f,68957,05/26/2022,,Network Server,MA,Business Associate,Hacking/IT Incident,Yes
+current,b29f62d617864102892f70dd58fa22c0c8f5b8af09067cf181d598dc51f310e1,500,05/25/2022,,Email,WA,Healthcare Provider,Hacking/IT Incident,No
+current,eedba0fb4df733c1a2df7ee27bf6c19a198500cbdb95a7c12ab1c8ccd1bfd5d8,38000,05/25/2022,,Electronic Medical Record,MO,Healthcare Provider,Hacking/IT Incident,Yes
+current,b1bc0c5fd57e2272ed5f89787b1ee51f3ebb6eb63d7d3bee25a61c0f54aed3f7,33619,05/24/2022,,Network Server,KS,Healthcare Provider,Hacking/IT Incident,No
+current,67b7b49805e112ce9d4acf6741bafe622dc6415bd05e8a351046ad057dac3a26,86562,05/24/2022,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,No
+current,1e7f1ca57a24e6ad50814bae0b6d4d421ce7a9e3b29d17b9b75da85cab96d0f9,29972,05/23/2022,,Network Server,OH,Healthcare Provider,Hacking/IT Incident,No
+current,7c5b2685c48f1c4bdb03ea86c83ee8711f17aa5e4105f2a47182d85c6e9d0f94,500,05/23/2022,,Email,MO,Health Plan,Hacking/IT Incident,No
+current,606b4f003bd1e160338b3491adcdc77dc7e8d82490ff454f7544b81b7d5959aa,90000,05/20/2022,,Email,CA,Healthcare Provider,Hacking/IT Incident,No
+current,2c39b5f6f5f1dd770c3284df271bd99a6b51b53165ce123bd61269f40ed21761,854913,05/18/2022,,Network Server,CA,Health Plan,Hacking/IT Incident,No
+current,50d55224e525814301113fefef74b246269b9873b75cb7fd624764147da51f13,14273,05/18/2022,,Network Server,OK,Healthcare Provider,Hacking/IT Incident,No
+current,5c12a06e7a4038e928e9726016dc502c2d8b40b21805600c0bdc47e616d1b9e4,6701,05/17/2022,,Email,MT,Healthcare Provider,Hacking/IT Incident,No
+current,97a82ea95d0dff89992647e82a41621f1385da75906523aec7902b022c4be436,1868831,05/16/2022,,"Email, Network Server",IN,Healthcare Provider,Hacking/IT Incident,No
+current,d77fd3eacaf9646e9f2efbe56e1ea8313dfee5291afb3f71532f03f17fe87d8a,2008,05/13/2022,,Network Server,MD,Health Plan,Hacking/IT Incident,No
+current,20a0514df9d6c74ff4f3b0d1fafdaf75c51f6d1a0a990bdd221bceb4e4ac907a,119513,05/13/2022,,Network Server,OH,Health Plan,Hacking/IT Incident,No
+current,33b6db15afbe6dde4fea452cdeed8c784365867a7e14f5e561a10d81bfe1725f,92311,05/13/2022,,Network Server,IN,Healthcare Provider,Hacking/IT Incident,No
+current,b31d72fd515f1bb5448c030037ef387157bedf07b7362e6a18b48d29cde7418f,606,05/11/2022,,Network Server,VA,Healthcare Provider,Hacking/IT Incident,No
+current,c119e7928c2f1fff49d132748a7ce3498aa0cae8bc9d56f7dbb38ae037b103e2,25318,05/10/2022,,Network Server,MI,Healthcare Provider,Hacking/IT Incident,No
+current,c353f9ac9f0c6ae3423234ba3f026f02460c1c7632edd060ec455be2eb60e8ab,81244,05/09/2022,,Network Server,NH,Healthcare Provider,Hacking/IT Incident,No
+current,36b51481a5221eacd25e0d6b799c85a503ab8c35ff8bfcdb88647e57c8435f52,1781,05/06/2022,,Email,NC,Healthcare Provider,Hacking/IT Incident,No
+current,0c3c2585d69e3bbc9ae636a743af123f490ac5d2bf7df27d8a8681396900a2c5,959,05/06/2022,,Laptop,OH,Health Plan,Unauthorized Access/Disclosure,Yes
+current,13a574c8364458a16026a8a6a401d50108c638ea9a8262ce97a334616d579a3d,1720,05/06/2022,,Email,OH,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,83a4661b3c66f70479831e5542a30cdf8c7f9b7c5ea4b310907b0b8e00549c23,1584,05/06/2022,,Paper/Films,MN,Business Associate,Unauthorized Access/Disclosure,Yes
+current,95173ac5e90c5ccb515c0433e667ddd56355d8fb8d9298109f5f24d8396fee27,149940,05/05/2022,,Paper/Films,CA,Healthcare Provider,Theft,No
+current,a123fcf6b1e21fd9094c512a06995ea1e3db3a94777511469922bf98d7b9b6a8,1085,05/04/2022,,Network Server,NH,Healthcare Provider,Hacking/IT Incident,No
+current,476ad5fdfd11f34a7699b37f2362d7777dd5cc315c416c59cd72a335058f31a2,3684,04/29/2022,,Electronic Medical Record,KS,Healthcare Provider,Hacking/IT Incident,Yes
+current,03f2749e474157d5dc2fb877893fcbcc8be71a8eed550df0e105855badb91ee9,260740,04/29/2022,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,3c24e1864e8c90af0c7b5ea80f05deb872ac2350447393655f7ac89fd57afc03,26333,04/29/2022,,Electronic Medical Record,KS,Healthcare Provider,Hacking/IT Incident,Yes
+current,4d40628753e3feda126e094ce13151bfbc2986b85524fbfcf203b15127bde5ff,14984,04/29/2022,,Electronic Medical Record,NE,Healthcare Provider,Hacking/IT Incident,Yes
+current,fcdb26bbf5ff2baad02de3e8c7bf141144929bd47ab48183198f1bf198d52e5c,8000,04/28/2022,,Network Server,MI,Healthcare Provider,Hacking/IT Incident,Yes
+current,52bb76011a20a1c1618913d6fe5abe2ed24241d42489ef61a8a4d83015563a90,23400,04/28/2022,,Network Server,MI,Healthcare Provider,Hacking/IT Incident,No
+current,6524aef5956183526b7d47742ee55c4489240503c3caad82d28ab4d61b1b07ce,20651,04/27/2022,,Network Server,OH,Healthcare Provider,Hacking/IT Incident,Yes
+current,7c64ccd4119e8fbd36aac4be6235ece1481d0f3c654b88dc8163e30d1d13d82b,15136,04/26/2022,,Network Server,OH,Healthcare Provider,Hacking/IT Incident,No
+current,175d03147900b66f829668396ab76a1896750397b9dc9c7ccf76bc4fef605263,3717,04/22/2022,,Electronic Medical Record,NY,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,e5381c43ffb419b1dfee39ffd4227a7c37dc5075d948703ab16e50907b5bb8b2,1322,04/22/2022,,Network Server,NH,Healthcare Provider,Hacking/IT Incident,Yes
+current,928bb8ae5a96a5f6714f47eb1e04851ae09da2def7c5aa9981a21331049e6b9f,227943,04/22/2022,,Network Server,IL,Healthcare Provider,Hacking/IT Incident,No
+current,03c3a01f7351a0bbd39ab863f48583b1b26abfd3836eb91b9036ed4d9bd97f8f,727,04/21/2022,,Network Server,VA,Health Plan,Hacking/IT Incident,No
+current,e7812fe04c0085b7a4e1d51e8e759131f6db7510be1e347f7019eb92db5497a1,875,04/21/2022,,Network Server,OH,Health Plan,Hacking/IT Incident,No
+current,bf782a87a79908db38cc85d7516dc58f13d2a4a50f7b2191ae95d725f2fcc36b,5944,04/19/2022,,Network Server,GA,Healthcare Provider,Hacking/IT Incident,No
+current,69701d995bab71afb9d20afb59ece777cf2eea2ec8abdf8f6d4864711c3442e3,10502,04/19/2022,,Email,CT,Healthcare Provider,Hacking/IT Incident,No
+current,6664e22da7f3a108183f675b05e65b5c1dd8680216cb9792cc4eecf76f43d7a0,59872,04/18/2022,,Email,NH,Healthcare Provider,Hacking/IT Incident,No
+current,05cfa2ce901e166567b4e1cddbc62e5f6c7a9905b3f8ac4febf919313c7c8178,1625,04/15/2022,,Paper/Films,NY,Business Associate,Unauthorized Access/Disclosure,Yes
+current,05cfa2ce901e166567b4e1cddbc62e5f6c7a9905b3f8ac4febf919313c7c8178,745,04/15/2022,,Paper/Films,NY,Business Associate,Unauthorized Access/Disclosure,Yes
+current,05cfa2ce901e166567b4e1cddbc62e5f6c7a9905b3f8ac4febf919313c7c8178,8015,04/15/2022,,Paper/Films,NY,Business Associate,Unauthorized Access/Disclosure,Yes
+current,b02049b9ec371025faeccc2099e38643f24e07defb0b12005bf9200c40c0260f,24029,04/14/2022,,"Network Server, Other",OH,Healthcare Provider,Hacking/IT Incident,No
+current,4a4ad37536ddedb5f925c576f872b98df525ef62bbb2ce68adfb65ee8bdca2f4,52224,04/14/2022,,Email,KS,Healthcare Provider,Hacking/IT Incident,No
+current,823198c005683d6e72e85016a05f73f410d6aa6348beddff0069a1a35942369c,15401,04/13/2022,,Laptop,FL,Healthcare Provider,Theft,No
+current,8dde040ad3c034f82153c0259abeb2a907cdd5e60ef0330eaef77bcb39c61452,510574,04/11/2022,,Network Server,ND,Healthcare Provider,Hacking/IT Incident,No
+current,f656235888a1aea2db24f85c3ffc55d577d0e6062bce241f51bebea763afa5af,1748,04/11/2022,,"Electronic Medical Record, Email, Paper/Films",OH,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,728558296e4ed51e6f998c92f81fba7edbdc937096786e59246b401c71bdcf24,501,04/07/2022,,Network Server,TN,Healthcare Provider,Hacking/IT Incident,No
+current,5bd11904aee63d404d2fede0351ddb25fa67406ba20f2a0ffcb390adb18ef26a,716,04/07/2022,,Network Server,OH,Health Plan,Unauthorized Access/Disclosure,No
+current,461f6fbf01bb427e95198e4d18626d71f6a34299c9e0d5d36f3687c769b6415b,7147,04/06/2022,,Email,MI,Business Associate,Hacking/IT Incident,Yes
+current,8b6d01cf2433fa7a49030279fed06bd029fd71cba673b16025243afa7075f857,820,04/05/2022,,Paper/Films,AZ,Health Plan,Unauthorized Access/Disclosure,Yes
+current,e612d77f1b15c2390a90fbc31219a4a26b878f5c61b3092eb0375d8e6b09c4b2,85282,03/28/2022,,Network Server,PA,Health Plan,Hacking/IT Incident,No
+current,40113c9dfa4dc4020cec0cd8f132b9b78165a087cee1a34c63946188e9f4f629,2000,03/28/2022,,Network Server,KS,Healthcare Provider,Hacking/IT Incident,No
+current,7e5f6d57dbc1e084867e6bc7b8fd57c12faaa92b31c05a33b3fdd7f520583734,1000,03/25/2022,,Network Server,IL,Healthcare Provider,Hacking/IT Incident,No
+current,b98476e7127f073e433900d2f6800cbe25b9d5f3a9d7ac48720b15c741fca33e,502869,03/25/2022,,Email,IL,Healthcare Provider,Hacking/IT Incident,No
+current,f8413e8d94973482a5ecc4d44118b5ec38a69fd7e620c169df354e4c872f8991,56427,03/23/2022,,Network Server,NJ,Business Associate,Hacking/IT Incident,Yes
+current,abcfdf8dd9b1b93dc4bbf7e00f84a1952b58eb1a184f0c8bca5dd6f3fffc45f4,2803,03/23/2022,,Email,MN,Healthcare Provider,Hacking/IT Incident,No
+current,268532e09d4183fe8bd148ce9f7a7440be03aed41d6e51a630b01cdcdbb6f92c,190209,03/21/2022,,Network Server,KY,Healthcare Provider,Hacking/IT Incident,No
+current,17cffac1bac9cb89d9dda0d57a2bb094bd842f048a892ed30a5554554940883e,34775,03/21/2022,,Network Server,CA,Healthcare Provider,Hacking/IT Incident,No
+current,73a331bca0abd5deed29ba0f6c0a9f10a62dfa0afe62f8a9d68237fd25a1cee8,43071,03/18/2022,,Network Server,MI,Healthcare Provider,Hacking/IT Incident,No
+current,fb4d5a333da1693791fe215b0c6e42ef2ff8525b4afe78cd6533256e3c0ba9ea,3912,03/18/2022,,Network Server,WV,Healthcare Provider,Hacking/IT Incident,No
+current,d11c3b44a2d9f0caee06f6e62a1a36ea0119d0505c8c68324b1061f0cce6c796,28725,03/17/2022,,Email,MN,Healthcare Provider,Hacking/IT Incident,No
+current,ccf297fd2d1fff83e9c18d5cbfd50e8626a88299dc57e677e3e3bb7dde0c3faf,500,03/14/2022,,Network Server,,Healthcare Provider,Hacking/IT Incident,No
+current,3113d7591065d462ab4756d22c492e55295e7da70dea93240278e1226132a1ba,1541,03/14/2022,,Network Server,MA,Healthcare Provider,Hacking/IT Incident,No
+current,08775ce81f43b5f65740d3c9b966200ca25bb6aa9b521ac2f56904a4df260816,17578,03/11/2022,,Network Server,MO,Healthcare Provider,Hacking/IT Incident,No
+current,0153c66a40b4c9bbd5bcee6c13c4a69053fb54cea4a4df74df633b53cdc172dd,85635,03/11/2022,,Network Server,KS,Healthcare Provider,Hacking/IT Incident,No
+current,071dbb6a395a26f0b81d17c423e7925c8f3fc5f92ed5bf5a9241eedc3c7b5934,92453,03/10/2022,,Network Server,NJ,Healthcare Provider,Hacking/IT Incident,No
+current,9da2ace0d992d89b5f389c3ac7dda14eddf2672143bd3cde785e82acbbb41584,83705,03/07/2022,,Network Server,IN,Healthcare Provider,Hacking/IT Incident,No
+current,782aaf60befb059fc33f7b87b343435cb9ed2716ea01d2234c64a083d116fbf3,287652,03/04/2022,,Network Server,CO,Healthcare Provider,Hacking/IT Incident,No
+current,fadfa66f7209729cbf6454e5fa7d9e2ac5abaacbcaacbb8f2242c5a57e5aff9b,2575,03/04/2022,,Email,IN,Healthcare Provider,Hacking/IT Incident,No
+current,a7c4c0fd84122016eecd8392589a80a640a94891841998a966044676e241dcde,2921,03/03/2022,,Email,MI,Healthcare Provider,Hacking/IT Incident,No
+current,b1eb534f6d6f0f276005760e323d3d2252a11208c081fc1135178f011480bff1,339471,03/03/2022,,Network Server,TN,Healthcare Provider,Hacking/IT Incident,No
+current,1c56d3692517c94c0d6013e351b555b4eb46e031aeb44891638d5dbb20119621,10324,03/02/2022,,Network Server,OH,Healthcare Provider,Hacking/IT Incident,No
+current,1b378a1d3775ec0c4e5e8223b2fd2cd3129ec29593fea0f25323f2f74adc64b5,864,03/01/2022,,Network Server,UT,Health Plan,Hacking/IT Incident,No
+current,a3447d5ac4433cd8b3b7d74b235ac3a8a184896612f4629cd23fb7880743c0a3,4270,02/28/2022,,Email,MA,Business Associate,Hacking/IT Incident,Yes
+current,764a502e45f3fcaf07bebc59832b588aadce03aadc5e05151a8622dc337476cd,25745,02/25/2022,,Network Server,GA,Healthcare Provider,Hacking/IT Incident,No
+current,38f2708850a6fce265de9cf8ec59355b99a56a4d4f28c21cfebec573e1a07b7e,197588,02/23/2022,,Network Server,MI,Business Associate,Hacking/IT Incident,Yes
+current,b4c207d6d0ef3879e193038c40db5efec40756380e12e28f165bbaeb2af78345,656,02/23/2022,,Email,NY,Healthcare Provider,Hacking/IT Incident,No
+current,559a877fe89425c65b30786006ea8a663531e82431ed1d803bf3ecaf66a8b69e,1100,02/23/2022,,Email,VA,Healthcare Provider,Hacking/IT Incident,No
+current,49601025c0b8eab1987747e0b30d43c7771465b06401a522db270866cff1a6c4,213543,02/22/2022,,Network Server,MT,Healthcare Provider,Hacking/IT Incident,No
+current,af90fb4994323a24126d56aff5b1224cccbf7df4e1926c0aec96ceb215bf46cb,27177,02/22/2022,,Electronic Medical Record,MI,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,b760c10a31857c2aa1929fb171dd777f74fced06d7db45c3c6a83bc9471a410e,80000,02/19/2022,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,No
+current,d15997311dc4e416361767f1bc723daa5680cbfcbaa3b81113892daa25431a48,87552,02/18/2022,,Network Server,NC,Business Associate,Hacking/IT Incident,Yes
+current,18e0aaae0f3cc58a7d48802c0757bc00d4217cc44529c253a28722afae3ed083,1039,02/14/2022,,Email,NJ,Healthcare Provider,Hacking/IT Incident,No
+current,0171308f6782794f1a8ae0392b4ae841c03207c3bed70070c284d2c8db012c17,3892,02/11/2022,,Network Server,MI,Healthcare Provider,Hacking/IT Incident,Yes
+current,f76910529db17abdce28ac06d73bff1a7588921abffb0d1f9d40ca66f7a25773,6221,02/11/2022,,Network Server,RI,Healthcare Provider,Hacking/IT Incident,No
+current,f038eff446c20391a760b1d18b57ab0ff956dcaf581b71d04ece5c63ef4fae18,38000,02/10/2022,,Network Server,FL,Healthcare Provider,Hacking/IT Incident,No
+current,b0c067201080cd0f0794c29e7e3f4449b4551d504277fd3d2266fcad21c23dba,12000,02/08/2022,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,668cf854754ca80a3e61d55cd0cd59cff7951e66e3fb70063eb4a44348a40cdd,115175,02/07/2022,,Network Server,IL,Healthcare Provider,Hacking/IT Incident,No
+current,39965bed9939bde2f21550b78cc4e277ffc91b6066d26a10c98626c3c5349d61,48126,02/07/2022,,Network Server,TX,Healthcare Provider,Hacking/IT Incident,No
+current,e4df4c785bf5e2200dc4e4025d720aecba086e5404152aaac9d405958eafde5f,521046,02/01/2022,,Network Server,MI,Business Associate,Hacking/IT Incident,Yes
+current,992d9711306310cad55251a476a56c234f144fb924a9688115d4f151f47cf195,31000,01/28/2022,,Network Server,IL,Healthcare Provider,Hacking/IT Incident,No
+current,667069cb7f9090ce76cbc88977bd95a6606ed5a01d2d36f1f589cee248b6527e,10023,01/24/2022,,Network Server,NJ,Health Plan,Hacking/IT Incident,No
+current,f26c32b2760226e51ef3fda8ff8dc24fb58eacea5d75e8ce7e19b72c9b0b2a99,133997,01/22/2022,,Network Server,MA,Business Associate,Hacking/IT Incident,Yes
+current,29620fd8301c5bc38a34aca06f266b11305f2d02d5fa724da6945eebf85dfe06,1471,01/21/2022,,Paper/Films,IL,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,408cbbf5ce4241c5f3514e256fa0a7cfe9fefa3a7d51b13b8ba9eaf88e06181a,518,01/21/2022,,Email,AR,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,16224f55b71b186dbf1560081f733aab80daa1edc50d80bbd5b935aa015c5c71,68236,01/21/2022,,Network Server,MA,Healthcare Provider,Hacking/IT Incident,No
+current,51efff4102d380ffd1a58fea3f92d717bb9e6291457bdf3242f649f0f9511aad,4897,01/17/2022,,Network Server,NY,Healthcare Provider,Hacking/IT Incident,No
+current,a295d5843d4728ca25eb01cc936d888a025d244e3fcd99f43f3f6e383fe56ddf,1762,01/14/2022,,Network Server,PA,Healthcare Provider,Hacking/IT Incident,No
+current,b9d5b1b738c136da80e8a1c8f0a8aee26d6e8a3450249ca3863c57d50d5af9c9,2051,01/14/2022,,Network Server,GA,Business Associate,Hacking/IT Incident,Yes
+current,8de83abf502c4095a7173149ef940aecc46c7f5b3c471244812c0e854046130b,504,01/13/2022,,Paper/Films,OH,Health Plan,Unauthorized Access/Disclosure,No
+current,72e37d8aa979fef4eeaaafba812638053e74ee47c9fa84b076c220cd26760dce,7632,01/13/2022,,Paper/Films,NJ,Health Plan,Unauthorized Access/Disclosure,No
+current,7d1f1bd92204a0e088b5f0f41ebb14d32b5a57bc836658c57b50da1109d4edaf,791,01/13/2022,,Paper/Films,OH,Health Plan,Unauthorized Access/Disclosure,No
+current,3387449c65f7f60974d224459cbac51c1ee1ef626e1f4a8efa4e17e96bfc3dda,23627,01/10/2022,,Email,IN,Healthcare Provider,Hacking/IT Incident,No
+current,fd3f8762bdba4a10f61bd14dac8e85a04e5baaaf3a44b4c013e26b45dd59fecc,1383,01/06/2022,,Email,TN,Business Associate,Hacking/IT Incident,Yes
+current,3765539aa6cae0fd2f2a57e60b1e2a8a87e0094563caf0dbb6b5323a1efaa012,105000,01/03/2022,,Other,FL,Healthcare Provider,Hacking/IT Incident,No
+current,bcd443ce22643c96f08774d21f06becb350d1c8dba9629b9be39640d47e48f82,5006,01/03/2022,,Email,MA,Healthcare Provider,Hacking/IT Incident,No
+current,c9c1aea0ef1d77c33a6b641c07d8951d22d39ec109c8c4b292f23c59449c38a7,6400,12/30/2021,,Network Server,VA,Business Associate,Hacking/IT Incident,Yes
+current,af6a074f20e02b138ac8cc090ccd59b77862ad7807909f322be639a80b8a5623,16934,12/30/2021,,Email,IL,Healthcare Provider,Hacking/IT Incident,No
+current,b1379b9fac64ac202f196f009f419cd1c18cdca2d8c3b28f31cd25224df66e89,5269,12/28/2021,,Network Server,IN,Healthcare Provider,Hacking/IT Incident,No
+current,428a3d2a1ca4054a1756257998c438e810c62767a1a63d6385c8e986cefd91c8,1624,12/28/2021,,Network Server,IN,Healthcare Provider,Hacking/IT Incident,No
+current,b1ce2009964dc4999cc4891fcea3106a0b950ae9fd5a6573317fbbf0bec1c169,1729,12/28/2021,,Paper/Films,WI,Healthcare Provider,Loss,No
+current,29620fd8301c5bc38a34aca06f266b11305f2d02d5fa724da6945eebf85dfe06,1352,12/27/2021,,Paper/Films,IL,Healthcare Provider,Loss,No
+current,2aaeba489c2e1e867d63a8e7fea1de1fbf2f170ecff6ed2fa20fbdfa94f7e7b8,79943,12/27/2021,,Network Server,IL,Healthcare Provider,Hacking/IT Incident,No
+current,a6a14c0e6c3fd2cddf7708eadde0d59b676474de8563d01b1530f0fc89a47709,1509,12/23/2021,,Network Server,IL,Health Plan,Hacking/IT Incident,No
+current,f6602b0f3ba3a0e59171a6db78da095950bd070e4869ecf0a3820726bbe215af,7000,12/23/2021,,Network Server,IN,Health Plan,Hacking/IT Incident,No
+current,0dccba20fb2b9d7fd450d784ca0f962b5dd87133afd1454bb8f112def326f503,184500,12/22/2021,,Network Server,IL,Health Plan,Hacking/IT Incident,Yes
+current,ffbac4f28848d6023a8269a94e0226c5c81b55133a44d416c49d3f0600753fd1,5015,12/21/2021,,Network Server,RI,Health Plan,Hacking/IT Incident,No
+current,8a7eec8890c409ba34c0d10ff0a1ff4bd1b19c22b04875084f71e7d2fa408175,777,12/21/2021,,Paper/Films,IL,Healthcare Provider,Theft,No
+current,4f2a35060e7618f627ab7b3301c7778719d7194e88a8ee9d2818fa2fdfceebd0,500,12/17/2021,,"Desktop Computer, Network Server",FL,Healthcare Provider,Hacking/IT Incident,No
+current,ab877d5eee159856c04d8e67146d61decd9011c6aeb873a56fe4088de0511560,8059,12/09/2021,,Email,UT,Healthcare Provider,Hacking/IT Incident,No
+current,c234ab6b5f89247c1ab658ae2c0567e22db5b4a8f9e024375d84220c53c0ddcd,5356,12/08/2021,,Email,IN,Healthcare Provider,Hacking/IT Incident,No
+current,3eaf9e89f54586cb4ece348474e063ceed70c0c040c16f77be873b9d246c8cd5,1387,12/08/2021,,Email,MI,Healthcare Provider,Hacking/IT Incident,No
+current,80ae3172b3abe6e2e5aaf91a15bfa1d3ec520c530a0242e6ce02f61a42ec5fb9,4910,12/07/2021,,Network Server,KS,Healthcare Provider,Hacking/IT Incident,No
+current,b023efed3d6d66e75068587cd571f1642a940d5c6e5ed567446491a87118d427,750500,12/06/2021,,Network Server,OR,Healthcare Provider,Hacking/IT Incident,No
+current,a6d4559052e04c9dfc8a47f1d32a9addbf9759677072f00bb471eaeeefde3461,70941,12/03/2021,,Network Server,IL,Business Associate,Hacking/IT Incident,Yes
+current,1c3d046242856b0bc4b2ab4ab2397abd259c0a7816db2da506974d158c53b091,868,12/03/2021,,Network Server,OK,Health Plan,Hacking/IT Incident,No
+current,27921d7331dfedf638f26814b815dd6f9166749e6a3b4de4a257c0eb14b8e92b,4110,12/01/2021,,Network Server,KS,Health Plan,Hacking/IT Incident,No
+current,50d68199e9a3fe57fe0d553731de0f735447fbe5aea47e3ec8e3d3bef4a833ec,1647,11/30/2021,,Email,IL,Healthcare Provider,Unauthorized Access/Disclosure,No
+current,fef54641ec40bdbba417470268ab6cbc4f5417bdf3a65cac9240f7e3c8605add,3171,11/29/2021,,Email,MI,Health Plan,Hacking/IT Incident,No
+current,11d2288862c15548e4bb5bae922b4edf4eeb594e431e6d13c9a7d2dbe0fb066b,501,11/29/2021,,Network Server,NH,Healthcare Provider,Hacking/IT Incident,No
+current,cdaaef79836d548ee83b7b1ed963823deb0242674a8a7b624d3f8273718db737,2756,07/19/2021,,Network Server,NJ,Healthcare Provider,Hacking/IT Incident,No
+current,20fbec946a4d693bfb08339f933a13f1b6e5e4548f07fb58f602a67ef214a9d4,36812,12/21/2020,,"Email, Network Server",MI,Health Plan,Hacking/IT Incident,Yes
+archive,1861af695e08266e7a5699b9a29a5df96ca38403159980b1b1562bf27e516da6,542,09/29/2023,"The covered entity (CE), reported that its business associate (BA) was the subject  of a cybersecurity incident that compromised the protected health information (PHI) of 542 individuals. The PHI involved included names, medical record numbers, and other treatment information. Steps were taken to mitigate harm and protect PHI.",Network Server,MN,Healthcare Provider,Hacking/IT Incident,Yes
+archive,6ed188976fc50d1e286ccea76579035c2886f675f71df150071fc59afee3b2fb,8801,08/11/2023,"The business associate (BA), reported that it experienced a cyber-attack that compromised the protected health information (PHI) of 8,801 individuals. The PHI involved included names, addresses, dates of birth, telephone numbers, Social Security numbers, driver's license numbers, diagnoses, lab results, medications, claims and financial information, and other treatment information. The BA notified HHS, affected individuals, the media, and provided substitute notice. In response to the breach, the BA installed manufacturer-provided software patches and implemented additional technical safeguards to better protect its sensitive data.",Network Server,DC,Business Associate,Hacking/IT Incident,Yes
